@@ -11,8 +11,8 @@ $(document).ready(function() {
 	});
 
 	// Waypoints
-	$('.work').waypoint(function() {
-		$('.work').addClass('animated fadeIn');
+	$('.work-images').waypoint(function() {
+		$('.work-images').addClass('animated fadeIn');
 	}, {
 		offset: '75%'
 	});
