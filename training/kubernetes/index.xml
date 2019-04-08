@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubernetes Workshop Series on Melio Consulting</title>
+    <link>https://melio.co.za/training/kubernetes/</link>
+    <description>Recent content in Kubernetes Workshop Series on Melio Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2019 22:09:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://melio.co.za/training/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubernetes Workshop: Intermediate</title>
+      <link>https://melio.co.za/training/kubernetes/intermediate/</link>
+      <pubDate>Thu, 04 Apr 2019 22:14:44 +0200</pubDate>
+      
+      <guid>https://melio.co.za/training/kubernetes/intermediate/</guid>
+      <description>Introduction to CNCF projects with Kubernetes. This workshop is best suited for attendees who would like to know more about the power of Kubernetes beyond the default configurations. This workshop introduces attendees to several CNCF projects which compliments the Kubernetes cluster.
+This workshop is structured for attendees with basic Kubernetes knowledge and some experience working with Kubernetes. Ideally, the attendees should have completed [Kubernetes Workshop: Fundamental]().
+ Agenda This workshop introduces attendees to a few popular CNCF projects that compliments the operation of a Kubernetes cluster.</description>
+    </item>
+    
+    <item>
+      <title>Pricing</title>
+      <link>https://melio.co.za/training/kubernetes/pricing/</link>
+      <pubDate>Thu, 04 Apr 2019 23:16:37 +0200</pubDate>
+      
+      <guid>https://melio.co.za/training/kubernetes/pricing/</guid>
+      <description>Table 1. Pricing guide      1/2 day class 1 day class 2 day class 3 day class      Up to 10 students
+ R 25 000
+ R 50 000
+ R 100 000
+ R 150 000
+    Every additional Student
+ R 1 250
+ R 2 500
+ R 5 000
+ R 7 500
+ 50% discount per student vs.</description>
+    </item>
+    
+  </channel>
+</rss>
