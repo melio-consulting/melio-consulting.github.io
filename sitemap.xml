@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://melio.co.za/training/kubernetes/</loc>
+    <lastmod>2019-04-04T22:09:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://melio.co.za/training/</loc>
+    <lastmod>2019-04-04T22:09:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://melio.co.za/training/kubernetes/docker/</loc>
+    <lastmod>2019-04-05T14:26:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://melio.co.za/training/kubernetes/fundamental/</loc>
+    <lastmod>2019-04-04T23:35:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://melio.co.za/training/kubernetes/intermediate/</loc>
+    <lastmod>2019-04-04T22:14:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://melio.co.za/training/kubernetes/advanced/</loc>
+    <lastmod>2019-04-04T23:37:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://melio.co.za/training/pricing/</loc>
+    <lastmod>2019-04-08T17:19:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://melio.co.za/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melio.co.za/</loc>
+    <lastmod>2019-04-05T14:26:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melio.co.za/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

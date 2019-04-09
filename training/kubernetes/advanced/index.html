@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.54.0" />
+    <meta name="description" content="">
+<meta name="author" content="Harry Lee">
+
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+
+    <title>Kubernetes Workshop: Advanced :: Melio Consulting</title>
+
+    
+    <link href="/css/nucleus.css?1554757073" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1554757073" rel="stylesheet">
+    <link href="/css/hybrid.css?1554757073" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1554757073" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1554757073" rel="stylesheet">
+    <link href="/css/auto-complete.css?1554757073" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1554757073" rel="stylesheet">
+    <link href="/css/theme.css?1554757073" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1554757073" rel="stylesheet">
+    
+      <link href="/css/theme-melio.css?1554757073" rel="stylesheet">
+    
+
+    <script src="/js/jquery-3.3.1.min.js?1554757073"></script>
+
+    <style type="text/css">
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+        :not(pre) > code + span.copy-to-clipboard {
+            display: none;
+        }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/training/kubernetes/advanced/">
+    <nav id="sidebar" class="">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <a id="logo" href="https://melio.co.za">
+    <img src="/images/logo-long-dark.png">
+</a>
+
+    </div>
+    
+  </div>
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/training/" title="Training" class="dd-item 
+        parent
+        
+        
+        ">
+      <a href="/training/">
+          Training
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/training/kubernetes/" title="Kubernetes Workshop Series" class="dd-item 
+        parent
+        
+        
+        ">
+      <a href="/training/kubernetes/">
+          Kubernetes Workshop Series
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/training/kubernetes/docker/" title="Docker: Introdocktion" class="dd-item ">
+        <a href="/training/kubernetes/docker/">
+        Docker
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/training/kubernetes/fundamental/" title="Kubernetes Workshop: Fundamental" class="dd-item ">
+        <a href="/training/kubernetes/fundamental/">
+        Fundamental
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/training/kubernetes/intermediate/" title="Kubernetes Workshop: Intermediate" class="dd-item ">
+        <a href="/training/kubernetes/intermediate/">
+        Intermediate
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/training/kubernetes/advanced/" title="Kubernetes Workshop: Advanced" class="dd-item active">
+        <a href="/training/kubernetes/advanced/">
+        Advanced
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/training/pricing/" title="Pricing" class="dd-item ">
+        <a href="/training/pricing/">
+        Pricing
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+         
+    </ul>
+
+    
+    
+
+    
+    <section id="footer">
+      <center>
+    
+    
+
+    
+    
+
+    
+    
+
+    <p>Built with <a href="https://melio.co.za"><i class="fas fa-heart"></i></a> by <a href="https://melio.co.za">Melio Consulting</a></p>
+</center>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+    </section>
+  </div>
+</nav>
+
+
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
+                  <span class="links">
+                 
+                 
+                    
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>Melio Consulting</a> > <a href='/training/'>Training</a> > <a href='/training/kubernetes/'>Kubernetes Workshop Series</a> > Kubernetes Workshop: Advanced
+          
+         
+          
+         
+          
+         
+          
+        
+                 
+                  </span>
+                </div>
+                
+                    <div class="progress">
+    <div class="wrapper">
+
+    </div>
+</div>
+
+                
+              </div>
+            </div>
+            
+        <div id="head-tags">
+        
+        </div>
+        
+        <div id="body-inner">
+          
+            <h1>
+              
+              Kubernetes Workshop: Advanced
+            </h1>
+          
+
+        
+
+
+
+<p>Introduction to best practices, automation (CI/CD), security and auditing in
+Kubernetes.</p>
+
+<p>(Workshop outline coming soon!)</p>
+
+
+<footer class=" footline" >
+	
+</footer>
+
+
+        
+        </div> 
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+        
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+        
+        
+
+
+	 
+	 
+		
+			<a class="nav nav-prev" href="/training/kubernetes/intermediate/" title="Kubernetes Workshop: Intermediate"> <i class="fa fa-chevron-left"></i></a>
+		
+		
+			<a class="nav nav-next" href="/training/pricing/" title="Pricing" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+		
+	
+    </div>
+
+    </section>
+    
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/js/clipboard.min.js?1554757073"></script>
+    <script src="/js/perfect-scrollbar.min.js?1554757073"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1554757073"></script>
+    <script src="/js/jquery.sticky.js?1554757073"></script>
+    <script src="/js/featherlight.min.js?1554757073"></script>
+    <script src="/js/html5shiv-printshiv.min.js?1554757073"></script>
+    <script src="/js/highlight.pack.js?1554757073"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/js/modernizr.custom-3.6.0.js?1554757073"></script>
+    <script src="/js/learn.js?1554757073"></script>
+    <script src="/js/hugo-learn.js?1554757073"></script>
+
+    <link href="/mermaid/mermaid.css?1554757073" type="text/css" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1554757073"></script>
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    
+
+  </body>
+</html>
+
