@@ -9,7 +9,7 @@
 
     <link rel="icon" href="/images/favicon.png" type="image/png">
 
-    <title>Tags :: Melio Consulting</title>
+    <title>Pricing :: Melio Consulting</title>
 
     
     <link href="/css/nucleus.css?1554757073" rel="stylesheet">
@@ -39,7 +39,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/tags/">
+  <body class="" data-url="/training/pricing/">
     <nav id="sidebar" class="">
 
 
@@ -66,7 +66,7 @@
   
     
     <li data-nav-id="/training/" title="Training" class="dd-item 
-        
+        parent
         
         
         ">
@@ -202,7 +202,7 @@
  
   
     
-      <li data-nav-id="/training/pricing/" title="Pricing" class="dd-item ">
+      <li data-nav-id="/training/pricing/" title="Pricing" class="dd-item active">
         <a href="/training/pricing/">
         Pricing
         
@@ -276,7 +276,19 @@
                     
           
           
-            Tags
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>Melio Consulting</a> > <a href='/training/'>Training</a> > Pricing
+          
+         
+          
+         
           
         
                  
@@ -301,7 +313,7 @@
           
             <h1>
               
-              Tags
+              Pricing
             </h1>
           
 
@@ -309,17 +321,193 @@
 
 
 
+<style>
+.background {
+  padding: 0 25px 25px;
+  position: relative;
+  width: 100%;
+}
 
+.background::after {
+  content: '';
+  background: #f7964c;
+  background: -moz-linear-gradient(top, #f7964c 0%, #e97d29 100%);
+  background: -webkit-linear-gradient(top, #f7964c 0%,#e97d29 100%);
+  background: linear-gradient(to bottom, #f7964c 0%,#e97d29 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7964c', endColorstr='#e97d29',GradientType=0 );
+  height: 350px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
 
+@media (min-width: 1300px) {
+  .background {
+    padding: 0 0 25px;
+  }
+}
 
-<ul>
-	
-</ul>
+.container {
+  margin: 0 auto;
+  padding: 50px 0 0;
+  max-width: 960px;
+  width: 100%;
+}
+
+.panel {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 15px 25px;
+  position: relative;
+  width: 100%;
+  z-index: 10;
+}
+
+.pricing-table {
+  box-shadow: 0px 10px 13px -6px rgba(0, 0, 0, 0.08), 0px 20px 31px 3px rgba(0, 0, 0, 0.09), 0px 8px 20px 7px rgba(0, 0, 0, 0.02);
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 1300px) {
+  .pricing-table {
+    flex-direction: row;
+  }
+}
+
+.pricing-table * {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.pricing-plan {
+  border-bottom: 1px solid #ffece1;
+  padding: 25px;
+}
+
+.pricing-plan:last-child {
+  border-bottom: none;
+}
+
+@media (min-width: 1300px) {
+  .pricing-plan {
+    border-bottom: none;
+    border-right: 1px solid #ffece1;
+    flex-basis: 100%;
+    padding: 25px 50px;
+  }
+
+  .pricing-plan:last-child {
+    border-right: none;
+  }
+}
+
+.pricing-img {
+  margin-bottom: 25px;
+  max-width: 100%;
+}
+
+.pricing-header {
+  color: #888;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.pricing-features {
+  color: #e97d29;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin: 50px 0 25px;
+}
+
+.pricing-features-item {
+  border-top: 1px solid #ffece1;
+  font-size: 12px;
+  line-height: 1.5;
+  padding: 15px 0;
+}
+
+.pricing-features-item:last-child {
+  border-bottom: 1px solid #ffece1;
+}
+
+.pricing-price {
+  color: #ed7200;
+  display: block;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.pricing-button {
+  border: 1px solid #ffc99c;
+  border-radius: 10px;
+  color: #fe9f33;
+  display: inline-block;
+  margin: 25px 0;
+  padding: 15px 35px;
+  text-decoration: none;
+  transition: all 150ms ease-in-out;
+}
+
+.pricing-button:hover,
+.pricing-button:focus {
+  background-color: #ffece1;
+}
+
+.pricing-button.is-featured {
+  background-color: #ffc99c;
+  color: #fff;
+}
+
+.pricing-button.is-featured:hover,
+.pricing-button.is-featured:active {
+  background-color: #ffc99c;
+}
+</style>
+
+<div class="background">
+  <div class="container">
+    <div class="panel pricing-table">
+      <div class="pricing-plan">
+        <h2 class="pricing-header">1/2 Day</h2>
+        <ul class="pricing-features">
+          <li class="pricing-features-item">3 hours</li>
+          <li class="pricing-features-item">Introductory topics, presentations</li>
+        </ul>
+        <!-- <span class="pricing-price">R20 000</span> -->
+        <a href="mailto:info@melio.co.za?subject=Half day training option inquiry&body=Gooday!%0A%0AI would like to know more about your half day training/exploration/proposition." class="pricing-button">Contact Us</a>
+      </div>
+      <div class="pricing-plan">
+        <h2 class="pricing-header">Single</h2>
+        <ul class="pricing-features">
+          <li class="pricing-features-item">1 full day</li>
+          <li class="pricing-features-item">Single workshop</li>
+          <li class="pricing-features-item">Up to 10 attendees</li>
+        </ul>
+        <!-- <span class="pricing-price">R50 000</span> -->
+        <a href="mailto:info@melio.co.za?subject=Single Workshop training option inquiry&body=Gooday!%0A%0AI would like to know more about your Single (1 Day) workshop training." class="pricing-button">Contact Us</a>
+      </div>
+      <div class="pricing-plan">
+        <h2 class="pricing-header">Series</h2>
+        <ul class="pricing-features">
+          <li class="pricing-features-item">3 full days</li>
+          <li class="pricing-features-item">Entire workshop series (3 workshops)</li>
+          <li class="pricing-features-item">Up to 10 attendees</li>
+        </ul>
+        <!-- <span class="pricing-price">R150 000</span> -->
+        <a href="mailto:info@melio.co.za?subject=Series Workshop training option inquiry&body=Gooday!%0A%0AI would like to know more about your Series workshops (3 days) training." class="pricing-button">Contact Us</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 <footer class=" footline" >
 	
 </footer>
+
 
         
         </div> 
@@ -352,8 +540,6 @@
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -370,18 +556,8 @@
             
                 
                     
-                
-                
-
-                    
-                    
-                    
-
-                    
                         
-            
-            
-                
+                        
                     
                 
                 
@@ -390,9 +566,6 @@
                     
                     
 
-                    
-            
-        
                     
                         
             
@@ -442,6 +615,22 @@
             
         
                     
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
             
         
                     
@@ -449,6 +638,7 @@
             
             
                 
+                    
                     
                 
                 
@@ -473,8 +663,10 @@
 	 
 	 
 		
+			<a class="nav nav-prev" href="/training/kubernetes/advanced/" title="Kubernetes Workshop: Advanced"> <i class="fa fa-chevron-left"></i></a>
 		
-			<a class="nav nav-next" href="/training/" title="Training" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+		
+			<a class="nav nav-next" href="/training/kubernetes/" title="Kubernetes Workshop Series" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -505,3 +697,4 @@
 
   </body>
 </html>
+

@@ -6,10 +6,32 @@
     <description>Recent content on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2019 22:14:44 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 14:26:38 +0200</lastBuildDate>
     
 	<atom:link href="https://melio.co.za/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Docker: Introdocktion</title>
+      <link>https://melio.co.za/training/kubernetes/docker/</link>
+      <pubDate>Fri, 05 Apr 2019 14:26:38 +0200</pubDate>
+      
+      <guid>https://melio.co.za/training/kubernetes/docker/</guid>
+      <description>A hands on workshop to the world&amp;rsquo;s most popular containerisation technology!
+(Workshop outline coming soon!)</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Workshop: Fundamental</title>
+      <link>https://melio.co.za/training/kubernetes/fundamental/</link>
+      <pubDate>Thu, 04 Apr 2019 23:35:24 +0200</pubDate>
+      
+      <guid>https://melio.co.za/training/kubernetes/fundamental/</guid>
+      <description>Introduction to Kubernetes basics including theory and a hands-on playground. This workshop is best suited for attendees that has no experience with Kubernetes and would like some hands-on experience with a real Kubernetes cluster.
+(Workshop outline coming soon!)
+This workshop is structured for attendees who has no experience with Kubernetes. Some experience with containerisation technology is recommended. Ideally, the candidate should have completed Docker: Introdocktion.
+ ## Agenda ### Key Focus Areas ## Outcome The attendees would get a firm grasp with the basic concepts of Kubernetes.</description>
+    </item>
     
     <item>
       <title>Kubernetes Workshop: Intermediate</title>
@@ -18,27 +40,27 @@
       
       <guid>https://melio.co.za/training/kubernetes/intermediate/</guid>
       <description>Introduction to CNCF projects with Kubernetes. This workshop is best suited for attendees who would like to know more about the power of Kubernetes beyond the default configurations. This workshop introduces attendees to several CNCF projects which compliments the Kubernetes cluster.
-This workshop is structured for attendees with basic Kubernetes knowledge and some experience working with Kubernetes. Ideally, the attendees should have completed [Kubernetes Workshop: Fundamental]().
+This workshop is structured for attendees with basic Kubernetes knowledge and some experience working with Kubernetes. Ideally, the attendees should have completed Kubernetes Workshop: Fundamental.
  Agenda This workshop introduces attendees to a few popular CNCF projects that compliments the operation of a Kubernetes cluster.</description>
     </item>
     
     <item>
-      <title>Pricing</title>
-      <link>https://melio.co.za/training/kubernetes/pricing/</link>
-      <pubDate>Thu, 04 Apr 2019 23:16:37 +0200</pubDate>
+      <title>Kubernetes Workshop: Advanced</title>
+      <link>https://melio.co.za/training/kubernetes/advanced/</link>
+      <pubDate>Thu, 04 Apr 2019 23:37:15 +0200</pubDate>
       
-      <guid>https://melio.co.za/training/kubernetes/pricing/</guid>
-      <description>Table 1. Pricing guide      1/2 day class 1 day class 2 day class 3 day class      Up to 10 students
- R 25 000
- R 50 000
- R 100 000
- R 150 000
-    Every additional Student
- R 1 250
- R 2 500
- R 5 000
- R 7 500
- 50% discount per student vs.</description>
+      <guid>https://melio.co.za/training/kubernetes/advanced/</guid>
+      <description>Introduction to best practices, automation (CI/CD), security and auditing in Kubernetes.
+(Workshop outline coming soon!)</description>
+    </item>
+    
+    <item>
+      <title>Pricing</title>
+      <link>https://melio.co.za/training/pricing/</link>
+      <pubDate>Mon, 08 Apr 2019 17:19:21 +0200</pubDate>
+      
+      <guid>https://melio.co.za/training/pricing/</guid>
+      <description>.background { padding: 0 25px 25px; position: relative; width: 100%; } .background::after { content: &#39;&#39;; background: #f7964c; background: -moz-linear-gradient(top, #f7964c 0%, #e97d29 100%); background: -webkit-linear-gradient(top, #f7964c 0%,#e97d29 100%); background: linear-gradient(to bottom, #f7964c 0%,#e97d29 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=&#39;#f7964c&#39;, endColorstr=&#39;#e97d29&#39;,GradientType=0 ); height: 350px; left: 0; position: absolute; top: 0; width: 100%; z-index: 1; } @media (min-width: 1300px) { .background { padding: 0 0 25px; } } .container { margin: 0 auto; padding: 50px 0 0; max-width: 960px; width: 100%; } .</description>
     </item>
     
   </channel>
