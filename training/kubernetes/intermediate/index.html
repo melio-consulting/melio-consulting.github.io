@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="generator" content="Hugo 0.55.6" />
+    <meta name="generator" content="Hugo 0.59.1" />
     <meta name="description" content="">
 <meta name="author" content="Melio Consulting">
 
@@ -12,20 +12,20 @@
     <title>Kubernetes Workshop: Intermediate :: Melio Consulting</title>
 
     
-    <link href="/css/nucleus.css?1561577513" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1561577513" rel="stylesheet">
-    <link href="/css/hybrid.css?1561577513" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1561577513" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1561577513" rel="stylesheet">
-    <link href="/css/auto-complete.css?1561577513" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1561577513" rel="stylesheet">
-    <link href="/css/theme.css?1561577513" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1561577513" rel="stylesheet">
+    <link href="/css/nucleus.css?1573125200" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1573125200" rel="stylesheet">
+    <link href="/css/hybrid.css?1573125200" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1573125200" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1573125200" rel="stylesheet">
+    <link href="/css/auto-complete.css?1573125200" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1573125200" rel="stylesheet">
+    <link href="/css/theme.css?1573125200" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1573125200" rel="stylesheet">
     
-      <link href="/css/theme-melio.css?1561577513" rel="stylesheet">
+      <link href="/css/theme-melio.css?1573125200" rel="stylesheet">
     
 
-    <script src="/js/jquery-3.3.1.min.js?1561577513"></script>
+    <script src="/js/jquery-3.3.1.min.js?1573125200"></script>
 
     <style type="text/css">
       :root #header + #content > #left > #rlblock_left{
@@ -202,6 +202,59 @@
  
   
     
+    <li data-nav-id="/training/kubeflow/" title="Machine Learning" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/training/kubeflow/">
+          Machine Learning
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/training/kubeflow/kubeflow/" title="Kubeflow Workshop" class="dd-item ">
+        <a href="/training/kubeflow/kubeflow/">
+        Kubeflow
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
       <li data-nav-id="/training/pricing/" title="Pricing" class="dd-item ">
         <a href="/training/pricing/">
         Pricing
@@ -347,44 +400,52 @@
 
 <p>Introduction to <a href="https://www.cncf.io/projects/">CNCF projects</a> with Kubernetes.</p>
 
-<p>This workshop is best suited for attendees who would like to know more about
-the power of Kubernetes beyond the default configurations. This workshop introduces
+<p>This workshop is best suited for attendees who would like to know more about the
+power of Kubernetes beyond the default configurations. This workshop introduces
 several <a href="https://www.cncf.io/projects/">CNCF projects</a> which are powerful
 additions to the Kubernetes cluster.</p>
 
-<p>why - benefits
-how - workshop
-what - outcome</p>
+<p>This workshop aims to showcase the usage of a Kubernetes cluster in a realistic
+and practical scenario. Hence this workshop is presented as a series of problems
+in a form of a laboratory that attendees can complete at their own pace.</p>
 
-<div class="notices tip" ><p>CNCF have several projects that are used in the workshop.</p>
+<!--
+why - benefits
+how - workshop
+what - outcome
+-->
+
+<div class="notices tip" ><p>Several projects from CNCF are introduced in this workshop.</p>
 </div>
 
 
-<div class="notices note" ><p>This workshop is for attendees with <strong>basic Kubernetes knowledge</strong> and
-<strong>some experience</strong> working with Kubernetes. It is recommended that the attendees have
+<div class="notices note" ><p>This workshop is for attendees with <strong>basic Kubernetes knowledge</strong> and <strong>some
+experience</strong> working with Kubernetes. It is recommended that the attendees have
 completed <a href="/training/kubernetes/fundamental/">Kubernetes Workshop: Fundamental</a>.</p>
 </div>
 
 
 <h2 id="agenda">Agenda</h2>
 
-<p>This workshop introduces a few popular CNCF projects that
-compliment a Kubernetes cluster. The workshop is a practical end-to-end scenario
-where a microservice architecture is deployed in Kubernetes with good practices in place.</p>
+<p>This workshop introduces a few popular CNCF projects that compliment a
+Kubernetes cluster. The workshop is a practical end-to-end scenario where a
+microservice architecture is deployed in Kubernetes with good practices in
+place.</p>
 
 <h3 id="scenario">Scenario</h3>
 
-<p>You are an infrastructure developer tasked with deploying a book review and rating
-system in Kubernetes. This application is composed of a suite of microservices
-written in multiple languages (Java, Javascipt, Python and Ruby). In addition to
-deploying these services, participants will be introduced to good practices
-including <em>scalability</em>, <em>security</em> and <em>high availability</em>.</p>
+<p>You are an infrastructure developer tasked with deploying a book review and
+rating system in Kubernetes. This application is composed of a suite of
+microservices written in multiple languages (Java, Javascipt, Python and Ruby).
+In addition to deploying these services, participants will be introduced to good
+practices including <em>scalability</em>, <em>security</em> and <em>high availability</em>.</p>
 
 <h3 id="approach">Approach</h3>
 
-<p>Six mixed maturity <em>CNCF projects</em> are used for this scenario.  The projects selected for this workshop
-have mixed maturity levels. This exposes the attendees to production-grade
-technologies as well as cutting edge projects in order to spark innovation.</p>
+<p>Six mixed maturity <em>CNCF projects</em> are used for this scenario.  The projects
+selected for this workshop have mixed maturity levels. This exposes the
+attendees to production-grade technologies as well as cutting edge projects in
+order to spark innovation.</p>
 
 <p>The CNCF projects that are introduced in this workshop:
 <style>
@@ -404,7 +465,7 @@ technologies as well as cutting edge projects in order to spark innovation.</p>
 <li><strong>Kubernetes</strong> <span class="label graduated">Graduated</span></li>
 <li><strong>Prometheus</strong> <span class="label graduated">Graduated</span></li>
 <li><strong>Envoy (Istio)</strong> <span class="label graduated">Graduated</span></li>
-<li><strong>Jaegar</strong> <span class="label incubating">Incubating</span></li>
+<li><strong>Jaegar</strong> <span class="label graduated">Graduated</span></li>
 <li><strong>Helm</strong> <span class="label incubating">Incubating</span></li>
 <li><strong>Telepresence</strong> <span class="label sandbox">Sandbox</span></li>
 </ul>
@@ -449,10 +510,10 @@ technologies as well as cutting edge projects in order to spark innovation.</p>
 
 <p>By the end of the workshop the attendees will be competent with provisioning
 applications/services using <strong>Helm charts</strong>. The attendees will be able to gain
-insights to the health of services with <strong>Prometheus</strong>. If a service is
-broken, the debugging process can be carried out with <strong>Jaegar</strong> and
-<strong>Telepresence</strong>. The attendees are introduced to <strong>Istio</strong> and see how a
-service mesh can be used in traffic management and monitoring.</p>
+insights to the health of services with <strong>Prometheus</strong>. During the application
+development phase, the application debugging process can be carried out with
+<strong>Jaegar</strong> and <strong>Telepresence</strong>. The attendees are introduced to <strong>Istio</strong> and
+learn how a service mesh can be used in traffic management and monitoring.</p>
 
 
 <footer class=" footline" >
@@ -603,6 +664,160 @@ service mesh can be used in traffic management and monitoring.</p>
                     
 
                     
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
             
         
                     
@@ -631,20 +846,20 @@ service mesh can be used in traffic management and monitoring.</p>
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1561577513"></script>
-    <script src="/js/perfect-scrollbar.min.js?1561577513"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1561577513"></script>
-    <script src="/js/jquery.sticky.js?1561577513"></script>
-    <script src="/js/featherlight.min.js?1561577513"></script>
-    <script src="/js/html5shiv-printshiv.min.js?1561577513"></script>
-    <script src="/js/highlight.pack.js?1561577513"></script>
+    <script src="/js/clipboard.min.js?1573125200"></script>
+    <script src="/js/perfect-scrollbar.min.js?1573125200"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1573125200"></script>
+    <script src="/js/jquery.sticky.js?1573125200"></script>
+    <script src="/js/featherlight.min.js?1573125200"></script>
+    <script src="/js/html5shiv-printshiv.min.js?1573125200"></script>
+    <script src="/js/highlight.pack.js?1573125200"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1561577513"></script>
-    <script src="/js/learn.js?1561577513"></script>
-    <script src="/js/hugo-learn.js?1561577513"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1573125200"></script>
+    <script src="/js/learn.js?1573125200"></script>
+    <script src="/js/hugo-learn.js?1573125200"></script>
 
-    <link href="/mermaid/mermaid.css?1561577513" type="text/css" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1561577513"></script>
+    <link href="/mermaid/mermaid.css?1573125200" type="text/css" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1573125200"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
