@@ -31,7 +31,7 @@ This workshop is best suited for attendees that have no experience with Docker b
       <guid>https://melio.co.za/training/kubernetes/fundamental/</guid>
       <description>Introduction to Kubernetes basics including theory and a hands-on playground.
 This workshop is best suited for attendees that have no experience with Kubernetes and would like some hands-on experience with a real Kubernetes cluster.
-This workshop is structured for attendees who has no experience with Kubernetes. Some experience with containerisation technology is recommended. Ideally, the candidate should have completed Docker: Introdocktion.
+This workshop is structured for attendees who has no experience with Kubernetes. Some experience with containerisation technology is recommended. Ideally, the attendees should have completed Docker: Introdocktion.
  Agenda This workshop introduces attendees to the Kubernetes basics from a software development perspective.</description>
     </item>
     
@@ -52,8 +52,9 @@ This workshop aims to showcase the usage of a Kubernetes cluster in a realistic 
       <pubDate>Thu, 04 Apr 2019 23:37:15 +0200</pubDate>
       
       <guid>https://melio.co.za/training/kubernetes/advanced/</guid>
-      <description>Introduction to best practices, automation (CI/CD), security and auditing in Kubernetes.
-(Workshop outline coming soon!)</description>
+      <description>This workshop is geared towards teams that have implemented Kubernetes within their organisations and would like to further their Kubernetes journey by learning about the best practices around configuring a production-ready, enterprise-level Kubernetes cluster.
+This workshop is only relevant to attendees that have Kubernetes currently deployed either in a development or production environment.
+ Agenda This workshop is tailored to the attendees&amp;rsquo; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
     </item>
     
   </channel>
