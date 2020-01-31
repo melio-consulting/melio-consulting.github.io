@@ -76,5 +76,14 @@ This workshop is only relevant to attendees that have Kubernetes currently deplo
       <description>.background { padding: 0 25px 25px; position: relative; width: 100%; } .background::after { content: &#39;&#39;; background: #f7964c; background: -moz-linear-gradient(top, #f7964c 0%, #e97d29 100%); background: -webkit-linear-gradient(top, #f7964c 0%,#e97d29 100%); background: linear-gradient(to bottom, #f7964c 0%,#e97d29 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=&#39;#f7964c&#39;, endColorstr=&#39;#e97d29&#39;,GradientType=0 ); height: 350px; left: 0; position: absolute; top: 0; width: 100%; z-index: 1; } @media (min-width: 1300px) { .background { padding: 0 0 25px; } } .container { margin: 0 auto; padding: 50px 0 0; max-width: 960px; width: 100%; } .</description>
     </item>
     
+    <item>
+      <title>Meetups</title>
+      <link>https://melio.co.za/events/meetups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.co.za/events/meetups/</guid>
+      <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ) Upcoming Thurs, 13 February, 6:00PM Webinar - Kubernetes Fundamentals  Online Webinar  To kick off 2020, our community member, Roger Dsouza, has kindly agreed to host our first online meetup!</description>
+    </item>
+    
   </channel>
 </rss>

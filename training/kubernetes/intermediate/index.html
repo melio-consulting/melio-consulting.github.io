@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="generator" content="Hugo 0.59.1" />
+    <meta name="generator" content="Hugo 0.63.2" />
     <meta name="description" content="">
 <meta name="author" content="Melio Consulting">
 
@@ -12,20 +12,20 @@
     <title>Kubernetes Workshop: Intermediate :: Melio Consulting</title>
 
     
-    <link href="/css/nucleus.css?1573548095" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1573548095" rel="stylesheet">
-    <link href="/css/hybrid.css?1573548095" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1573548095" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1573548095" rel="stylesheet">
-    <link href="/css/auto-complete.css?1573548095" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1573548095" rel="stylesheet">
-    <link href="/css/theme.css?1573548095" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1573548095" rel="stylesheet">
+    <link href="/css/nucleus.css?1580474419" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1580474419" rel="stylesheet">
+    <link href="/css/hybrid.css?1580474419" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1580474419" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1580474419" rel="stylesheet">
+    <link href="/css/auto-complete.css?1580474419" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1580474419" rel="stylesheet">
+    <link href="/css/theme.css?1580474419" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1580474419" rel="stylesheet">
     
-      <link href="/css/theme-melio.css?1573548095" rel="stylesheet">
+      <link href="/css/theme-melio.css?1580474419" rel="stylesheet">
     
 
-    <script src="/js/jquery-3.3.1.min.js?1573548095"></script>
+    <script src="/js/jquery-3.3.1.min.js?1580474419"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -275,6 +275,57 @@
  
 
           
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/events/" title="Events" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/events/">
+          Events
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/events/meetups/" title="Meetups" class="dd-item ">
+        <a href="/events/meetups/">
+        Meetups
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
          
     </ul>
 
@@ -357,21 +408,16 @@
                     <div class="progress">
     <div class="wrapper">
 <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#agenda">Agenda</a>
-<ul>
-<li><a href="#scenario">Scenario</a></li>
-<li><a href="#approach">Approach</a></li>
-<li><a href="#key-focus-areas">Key Focus Areas</a>
-<ul>
-<li><a href="#laboratories">Laboratories</a></li>
-</ul></li>
-</ul></li>
-<li><a href="#outcome">Outcome</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#agenda">Agenda</a>
+      <ul>
+        <li><a href="#scenario">Scenario</a></li>
+        <li><a href="#approach">Approach</a></li>
+        <li><a href="#key-focus-areas">Key Focus Areas</a></li>
+      </ul>
+    </li>
+    <li><a href="#outcome">Outcome</a></li>
+  </ul>
 </nav>
     </div>
 </div>
@@ -396,29 +442,22 @@
 
 
 
-
-
 <p>Introduction to <a href="https://www.cncf.io/projects/">CNCF projects</a> with Kubernetes.</p>
-
 <p>This workshop is best suited for attendees who would like to know more about the
 power of Kubernetes beyond the default configurations. This workshop introduces
 several <a href="https://www.cncf.io/projects/">CNCF projects</a> which are powerful
 additions to the Kubernetes cluster.</p>
-
 <p>This workshop aims to showcase the usage of a Kubernetes cluster in a realistic
 and practical scenario. Hence this workshop is presented as a series of problems
 in a form of a laboratory that attendees can complete at their own pace.</p>
-
 <!--
 why - benefits
 how - workshop
 what - outcome
 -->
 
-
 <div class="notices tip" ><p>Several projects from CNCF are introduced in this workshop.</p>
 </div>
-
 
 
 <div class="notices note" ><p>This workshop is for attendees with <strong>basic Kubernetes knowledge</strong> and <strong>some
@@ -426,30 +465,23 @@ experience</strong> working with Kubernetes. It is recommended that the attendee
 completed <a href="/training/kubernetes/fundamental/">Kubernetes Workshop: Fundamental</a>.</p>
 </div>
 
-
 <h2 id="agenda">Agenda</h2>
-
 <p>This workshop introduces a few popular CNCF projects that compliment a
 Kubernetes cluster. The workshop is a practical end-to-end scenario where a
 microservice architecture is deployed in Kubernetes with good practices in
 place.</p>
-
 <h3 id="scenario">Scenario</h3>
-
 <p>You are an infrastructure developer tasked with deploying a book review and
 rating system in Kubernetes. This application is composed of a suite of
 microservices written in multiple languages (Java, Javascipt, Python and Ruby).
 In addition to deploying these services, attendees will be introduced to good
 practices including <em>scalability</em>, <em>security</em> and <em>high availability</em>.</p>
-
 <h3 id="approach">Approach</h3>
-
 <p>Six mixed maturity <em>CNCF projects</em> are used in this scenario.  The projects
 selected for this workshop have mixed maturity levels. This exposes the
 attendees to production-grade technologies as well as cutting edge projects in
 order to spark innovation.</p>
-
-<p>The CNCF projects that are introduced in this workshop:
+<p>The CNCF projects that are introduced in this workshop:</p>
 <style>
 .label {
     color: #fff;
@@ -461,8 +493,7 @@ order to spark innovation.</p>
 .graduated {background-color: #6d004e;}
 .incubating {background-color: #a10050;}
 .sandbox {background-color: #dd0054;}
-</style></p>
-
+</style>
 <ul>
 <li><strong>Kubernetes</strong> <span class="label graduated">Graduated</span></li>
 <li><strong>Prometheus</strong> <span class="label graduated">Graduated</span></li>
@@ -471,45 +502,36 @@ order to spark innovation.</p>
 <li><strong>Helm</strong> <span class="label incubating">Incubating</span></li>
 <li><strong>Telepresence</strong> <span class="label sandbox">Sandbox</span></li>
 </ul>
-
-<p><img src="/images/kubernetes/intermediate/graphic-chasm.png" alt="CNCF Project Maturity Levels" /></p>
-
+<p><img src="/images/kubernetes/intermediate/graphic-chasm.png" alt="CNCF Project Maturity Levels"></p>
 <h3 id="key-focus-areas">Key Focus Areas</h3>
-
 <p>This workshop has 3 key focus areas:</p>
-
 <ul>
 <li>Kubernetes toolset exploration</li>
 <li>Cloud native development approaches</li>
 <li>Cloud infrastructure good practices</li>
 </ul>
-
 <h4 id="laboratories">Laboratories</h4>
-
 <p>The above key focus areas are further expanded to 7 laboratory sessions:</p>
-
 <ol>
 <li>Getting to know the Kubernetes environment
-
 <ul>
 <li>Overview of the Kubernetes architecture</li>
 <li>Using <strong>Kubernetes-dashboard</strong></li>
-</ul></li>
+</ul>
+</li>
 <li>Deploying the <code>BookInfo</code> application
-
 <ul>
 <li>Overview of the microservice architecture</li>
 <li><code>BookInfo</code> as microservices</li>
-</ul></li>
+</ul>
+</li>
 <li><strong>Observing</strong> with <strong>Prometheus</strong></li>
 <li><strong>Tracing</strong> with <strong>Jaegar</strong></li>
 <li><strong>Deploying</strong> with <strong>Helm</strong></li>
 <li><strong>Networking</strong> with <strong>Istio</strong></li>
 <li><strong>Developing</strong> with <strong>Telepresence</strong></li>
 </ol>
-
 <h2 id="outcome">Outcome</h2>
-
 <p>By the end of the workshop the attendees will be competent with provisioning
 applications/services using <strong>Helm charts</strong>. The attendees will be able to gain
 insights to the health of services with <strong>Prometheus</strong>. During the application
@@ -695,90 +717,6 @@ learn how a service mesh can be used in traffic management and monitoring.</p>
 
                     
                     
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
                     
 
                     
@@ -813,12 +751,6 @@ learn how a service mesh can be used in traffic management and monitoring.</p>
                     
                     
 
-                    
-            
-        
-                    
-            
-        
                     
             
         
@@ -848,19 +780,19 @@ learn how a service mesh can be used in traffic management and monitoring.</p>
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1573548095"></script>
-    <script src="/js/perfect-scrollbar.min.js?1573548095"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1573548095"></script>
-    <script src="/js/jquery.sticky.js?1573548095"></script>
-    <script src="/js/featherlight.min.js?1573548095"></script>
-    <script src="/js/highlight.pack.js?1573548095"></script>
+    <script src="/js/clipboard.min.js?1580474419"></script>
+    <script src="/js/perfect-scrollbar.min.js?1580474419"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1580474419"></script>
+    <script src="/js/jquery.sticky.js?1580474419"></script>
+    <script src="/js/featherlight.min.js?1580474419"></script>
+    <script src="/js/highlight.pack.js?1580474419"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1573548095"></script>
-    <script src="/js/learn.js?1573548095"></script>
-    <script src="/js/hugo-learn.js?1573548095"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1580474419"></script>
+    <script src="/js/learn.js?1580474419"></script>
+    <script src="/js/hugo-learn.js?1580474419"></script>
 
-    <link href="/mermaid/mermaid.css?1573548095" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1573548095"></script>
+    <link href="/mermaid/mermaid.css?1580474419" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1580474419"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
