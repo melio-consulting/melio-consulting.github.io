@@ -115,7 +115,7 @@ ul li {
     float: left; }
 
 #header.fixed {
-  background-color: #292c47; }
+  background-color: #154c57; }
   #header.fixed .header-content {
     border-bottom: 0;
     padding: 25px 0; }
@@ -270,7 +270,7 @@ ul li {
 	$Banner
 ========================================================================== */
 .banner {
-  background-image: url(../images/banner.jpg);
+  background-image: url(../images/banner.png);
   background-position: center top;
   background-repeat: no-repeat;
   -moz-background-size: cover;
@@ -285,7 +285,8 @@ ul li {
     color: #fff;
     font-family: "Open Sans", sans-serif;
     font-weight: 700;
-    text-transform: uppercase; }
+    /* text-transform: uppercase; */
+  }
   .banner-text p {
     color: #fff;
     font-size: 22px;
@@ -385,16 +386,21 @@ ul li {
 	$Teams
 ========================================================================== */
 .person {
-  max-width: 270px; }
-  .person-content {
-    margin-top: 20px; }
-  .person h4 {
-    font-weight: 400; }
-  .person h6 {
-    color: #ef9035;
-    font-size: 13px;
-    font-weight: 400; 
-    margin-bottom: 15px}
+  max-width: 270px;
+  margin: auto;
+}
+.person-content {
+  margin-top: 20px;
+}
+.person h4 {
+  font-weight: 400;
+}
+.person h6 {
+  color: #ef9035;
+  font-size: 13px;
+  font-weight: 400;
+  margin-bottom: 15px
+}
 
 .social-icons, .footer .footer-share {
   margin-top: 30px; }
@@ -458,10 +464,10 @@ ul li {
 .footer {
   text-align: center; }
   .footer-top {
-    background-color: #3a3e64;
+    background-color: #16697a;
     padding-top: 50px; }
   .footer-bottom {
-    background-color: #313454;
+    background-color: #154c57;
     padding: 20px 0; }
   .footer .footer-col {
     margin-bottom: 80px; }
@@ -844,3 +850,20 @@ ul li {
 
 .icon-dribbble:before {
   content: "\e063"; }
+
+/* DOTS */
+.dot {
+  height: 12px;
+  width: 12px;
+  background-color: #b7b5b3;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 8px;
+}
+
+.dot-container {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+}
