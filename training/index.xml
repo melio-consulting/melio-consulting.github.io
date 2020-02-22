@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Training on Melio Consulting</title>
-    <link>https://melio.co.za/training/</link>
+    <link>https://melio.ai/training/</link>
     <description>Recent content in Training on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Apr 2019 22:09:34 +0200</lastBuildDate>
     
-	<atom:link href="https://melio.co.za/training/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://melio.ai/training/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pricing</title>
-      <link>https://melio.co.za/training/pricing/</link>
+      <link>https://melio.ai/training/pricing/</link>
       <pubDate>Mon, 08 Apr 2019 17:19:21 +0200</pubDate>
       
-      <guid>https://melio.co.za/training/pricing/</guid>
+      <guid>https://melio.ai/training/pricing/</guid>
       <description>.background { padding: 0 25px 25px; position: relative; width: 100%; } .background::after { content: &#39;&#39;; background: #f7964c; background: -moz-linear-gradient(top, #f7964c 0%, #e97d29 100%); background: -webkit-linear-gradient(top, #f7964c 0%,#e97d29 100%); background: linear-gradient(to bottom, #f7964c 0%,#e97d29 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=&#39;#f7964c&#39;, endColorstr=&#39;#e97d29&#39;,GradientType=0 ); height: 350px; left: 0; position: absolute; top: 0; width: 100%; z-index: 1; } @media (min-width: 1300px) { .background { padding: 0 0 25px; } } .container { margin: 0 auto; padding: 50px 0 0; max-width: 960px; width: 100%; } .</description>
     </item>
     

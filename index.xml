@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melio Consulting</title>
-    <link>https://melio.co.za/</link>
+    <link>https://melio.ai/</link>
     <description>Recent content on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 13:00:34 +0200</lastBuildDate>
     
-	<atom:link href="https://melio.co.za/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://melio.ai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Docker: Introdocktion</title>
-      <link>https://melio.co.za/training/kubernetes/docker/</link>
+      <link>https://melio.ai/training/kubernetes/docker/</link>
       <pubDate>Fri, 05 Apr 2019 14:26:38 +0200</pubDate>
       
-      <guid>https://melio.co.za/training/kubernetes/docker/</guid>
+      <guid>https://melio.ai/training/kubernetes/docker/</guid>
       <description>A hands-on workshop to the world&amp;rsquo;s most popular containerisation technology!
 Attendees will learn about the fundamental building block that enables technologies such as Kubernetes. The hands-on portion of this workshop emphasises on how Docker can enhance software development workflows.
 This workshop is best suited for attendees that have no experience with Docker but are familiar with software development (no pre-requisites on any specific programming language).
@@ -25,20 +25,20 @@ This workshop is best suited for attendees that have no experience with Docker b
     
     <item>
       <title>Kubeflow Workshop</title>
-      <link>https://melio.co.za/training/kubeflow/kubeflow/</link>
+      <link>https://melio.ai/training/kubeflow/kubeflow/</link>
       <pubDate>Fri, 05 Apr 2019 14:26:38 +0200</pubDate>
       
-      <guid>https://melio.co.za/training/kubeflow/kubeflow/</guid>
+      <guid>https://melio.ai/training/kubeflow/kubeflow/</guid>
       <description>Kubeflow is a machine learning platform native to Kubernetes.
 (Workshop outline coming soon!)</description>
     </item>
     
     <item>
       <title>Kubernetes Workshop: Fundamental</title>
-      <link>https://melio.co.za/training/kubernetes/fundamental/</link>
+      <link>https://melio.ai/training/kubernetes/fundamental/</link>
       <pubDate>Thu, 04 Apr 2019 23:35:24 +0200</pubDate>
       
-      <guid>https://melio.co.za/training/kubernetes/fundamental/</guid>
+      <guid>https://melio.ai/training/kubernetes/fundamental/</guid>
       <description>Introduction to Kubernetes basics including theory and a hands-on playground.
 This workshop is best suited for attendees that have no experience with Kubernetes and would like some hands-on experience with a real Kubernetes cluster.
 This workshop is structured for attendees who has no experience with Kubernetes. Some experience with containerisation technology is recommended. Ideally, the attendees should have completed Docker: Introdocktion.
@@ -47,10 +47,10 @@ This workshop is structured for attendees who has no experience with Kubernetes.
     
     <item>
       <title>Kubernetes Workshop: Intermediate</title>
-      <link>https://melio.co.za/training/kubernetes/intermediate/</link>
+      <link>https://melio.ai/training/kubernetes/intermediate/</link>
       <pubDate>Thu, 04 Apr 2019 22:14:44 +0200</pubDate>
       
-      <guid>https://melio.co.za/training/kubernetes/intermediate/</guid>
+      <guid>https://melio.ai/training/kubernetes/intermediate/</guid>
       <description>Introduction to CNCF projects with Kubernetes.
 This workshop is best suited for attendees who would like to know more about the power of Kubernetes beyond the default configurations. This workshop introduces several CNCF projects which are powerful additions to the Kubernetes cluster.
 This workshop aims to showcase the usage of a Kubernetes cluster in a realistic and practical scenario. Hence this workshop is presented as a series of problems in a form of a laboratory that attendees can complete at their own pace.</description>
@@ -58,10 +58,10 @@ This workshop aims to showcase the usage of a Kubernetes cluster in a realistic 
     
     <item>
       <title>Kubernetes Workshop: Advanced</title>
-      <link>https://melio.co.za/training/kubernetes/advanced/</link>
+      <link>https://melio.ai/training/kubernetes/advanced/</link>
       <pubDate>Thu, 04 Apr 2019 23:37:15 +0200</pubDate>
       
-      <guid>https://melio.co.za/training/kubernetes/advanced/</guid>
+      <guid>https://melio.ai/training/kubernetes/advanced/</guid>
       <description>This workshop is geared towards teams that have implemented Kubernetes within their organisations and would like to further their Kubernetes journey by learning about the best practices around configuring a production-ready, enterprise-level Kubernetes cluster.
 This workshop is only relevant to attendees that have Kubernetes currently deployed either in a development or production environment.
  Agenda This workshop is tailored to the attendees&amp;rsquo; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
@@ -69,19 +69,19 @@ This workshop is only relevant to attendees that have Kubernetes currently deplo
     
     <item>
       <title>Pricing</title>
-      <link>https://melio.co.za/training/pricing/</link>
+      <link>https://melio.ai/training/pricing/</link>
       <pubDate>Mon, 08 Apr 2019 17:19:21 +0200</pubDate>
       
-      <guid>https://melio.co.za/training/pricing/</guid>
+      <guid>https://melio.ai/training/pricing/</guid>
       <description>.background { padding: 0 25px 25px; position: relative; width: 100%; } .background::after { content: &#39;&#39;; background: #f7964c; background: -moz-linear-gradient(top, #f7964c 0%, #e97d29 100%); background: -webkit-linear-gradient(top, #f7964c 0%,#e97d29 100%); background: linear-gradient(to bottom, #f7964c 0%,#e97d29 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=&#39;#f7964c&#39;, endColorstr=&#39;#e97d29&#39;,GradientType=0 ); height: 350px; left: 0; position: absolute; top: 0; width: 100%; z-index: 1; } @media (min-width: 1300px) { .background { padding: 0 0 25px; } } .container { margin: 0 auto; padding: 50px 0 0; max-width: 960px; width: 100%; } .</description>
     </item>
     
     <item>
       <title>Meetups</title>
-      <link>https://melio.co.za/events/meetups/</link>
+      <link>https://melio.ai/events/meetups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://melio.co.za/events/meetups/</guid>
+      <guid>https://melio.ai/events/meetups/</guid>
       <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ)    Online Webinar  Attend   !</description>
     </item>
     

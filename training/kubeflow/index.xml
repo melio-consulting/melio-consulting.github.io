@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Melio Consulting</title>
-    <link>https://melio.co.za/training/kubeflow/</link>
+    <link>https://melio.ai/training/kubeflow/</link>
     <description>Recent content in Machine Learning on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 13:00:34 +0200</lastBuildDate>
     
-	<atom:link href="https://melio.co.za/training/kubeflow/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://melio.ai/training/kubeflow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kubeflow Workshop</title>
-      <link>https://melio.co.za/training/kubeflow/kubeflow/</link>
+      <link>https://melio.ai/training/kubeflow/kubeflow/</link>
       <pubDate>Fri, 05 Apr 2019 14:26:38 +0200</pubDate>
       
-      <guid>https://melio.co.za/training/kubeflow/kubeflow/</guid>
+      <guid>https://melio.ai/training/kubeflow/kubeflow/</guid>
       <description>Kubeflow is a machine learning platform native to Kubernetes.
 (Workshop outline coming soon!)</description>
     </item>

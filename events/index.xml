@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Melio Consulting</title>
-    <link>https://melio.co.za/events/</link>
+    <link>https://melio.ai/events/</link>
     <description>Recent content in Events on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://melio.co.za/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://melio.ai/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meetups</title>
-      <link>https://melio.co.za/events/meetups/</link>
+      <link>https://melio.ai/events/meetups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://melio.co.za/events/meetups/</guid>
+      <guid>https://melio.ai/events/meetups/</guid>
       <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ)    Online Webinar  Attend   !</description>
     </item>
     
