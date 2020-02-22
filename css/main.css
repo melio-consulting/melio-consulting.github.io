@@ -298,13 +298,25 @@ ul li {
 	$Features
 ========================================================================== */
 .feature {
-  margin-bottom: 50px; }
-  .feature-content {
-    padding: 0 15px;
-    margin-top: 30px; }
-  .feature .icon {
-    color: #ef9035;
-    font-size: 60px; }
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+.feature h5{
+  margin: auto;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.feature-content {
+  margin-top: 15px;
+}
+
+.feature .icon {
+  color: #ef9035;
+  font-size: 48px;
+}
 
 /* ==========================================================================
 	$Works
