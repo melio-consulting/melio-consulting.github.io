@@ -20,14 +20,16 @@ h2 {
 }
 
 h3 {
-  font-size: 28px;
-  color: #2d3033;
-  font-weight: 300; }
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  color: #16697a;
+}
 
 h4 {
   font-family: "Raleway", sans-serif;
-  font-size: 22px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 300;
   line-height: 1.6;
   color: #4f4e4d;
 }
