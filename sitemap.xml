@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://melio.ai/events/resources/2020-02-13/</loc>
+  </url>
+  
+  <url>
     <loc>https://melio.ai/training/kubernetes/</loc>
     <lastmod>2019-04-04T22:09:34+02:00</lastmod>
   </url>
@@ -10,6 +14,14 @@
   <url>
     <loc>https://melio.ai/training/</loc>
     <lastmod>2019-04-04T22:09:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://melio.ai/events/resources/2020-05-26/</loc>
+  </url>
+  
+  <url>
+    <loc>https://melio.ai/events/resources/2020-06-29/</loc>
   </url>
   
   <url>
@@ -58,18 +70,6 @@
   
   <url>
     <loc>https://melio.ai/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://melio.ai/events/resources/2020-02-13/</loc>
-  </url>
-  
-  <url>
-    <loc>https://melio.ai/events/resources/2020-06-29/</loc>
-  </url>
-  
-  <url>
-    <loc>https://melio.ai/events/resources/2020-05-26/</loc>
   </url>
   
   <url>

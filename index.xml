@@ -12,6 +12,37 @@
     
     
     <item>
+      <title>CNCJ - Feb, 2020</title>
+      <link>https://melio.ai/events/resources/2020-02-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2020-02-13/</guid>
+      <description>Webinar - Kubernetes Fundamentals Session Recording Zoom share link
+Slides Google Docs: Webinar - Kubernetes Fundamentals</description>
+    </item>
+    
+    <item>
+      <title>CNCJ - May, 2020</title>
+      <link>https://melio.ai/events/resources/2020-05-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2020-05-26/</guid>
+      <description>[Kubernetes] Embracing Failure: Lessons learned from 50 post-mortems Session Recording https://youtu.be/ad2E5rcT_fw
+Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems
+References  PDF: How Complex Systems Fail Kubernetes Failure Stories Open Policy Agent Node Local DNS Resilience Engineering Papers Blog: Kitchen Soap Github: Cluster API SIG Github: Bloomberg Goldpinger Github: Tmobile Magtape Youtube: Resilience in Complex Adaptive Systems Youtube: Resilience Engineering Playlist Youtube: The Gotchas of Zero-Downtime Traffic /w Kubernetes  </description>
+    </item>
+    
+    <item>
+      <title>CNCJ - June, 2020</title>
+      <link>https://melio.ai/events/resources/2020-06-29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2020-06-29/</guid>
+      <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Session Recording https://youtu.be/5aZB_EF6v_s
+References  Rancher Academy: Certified Rancher Operator: Level 1  </description>
+    </item>
+    
+    <item>
       <title>Docker: Introdocktion</title>
       <link>https://melio.ai/training/kubernetes/docker/</link>
       <pubDate>Fri, 05 Apr 2019 14:26:38 +0200</pubDate>
@@ -83,37 +114,6 @@ This workshop is only relevant to attendees that have Kubernetes currently deplo
       
       <guid>https://melio.ai/how/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>CNCJ - Feb, 2020</title>
-      <link>https://melio.ai/events/resources/2020-02-13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/events/resources/2020-02-13/</guid>
-      <description>Webinar - Kubernetes Fundamentals Session Recording Zoom share link
-Slides Google Docs: Webinar - Kubernetes Fundamentals</description>
-    </item>
-    
-    <item>
-      <title>CNCJ - June, 2020</title>
-      <link>https://melio.ai/events/resources/2020-06-29/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/events/resources/2020-06-29/</guid>
-      <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Session Recording https://youtu.be/5aZB_EF6v_s
-References  Rancher Academy: Certified Rancher Operator: Level 1  </description>
-    </item>
-    
-    <item>
-      <title>CNCJ - May, 2020</title>
-      <link>https://melio.ai/events/resources/2020-05-26/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/events/resources/2020-05-26/</guid>
-      <description>[Kubernetes] Embracing Failure: Lessons learned from 50 post-mortems Session Recording https://youtu.be/ad2E5rcT_fw
-Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems
-References  PDF: How Complex Systems Fail Kubernetes Failure Stories Open Policy Agent Node Local DNS Resilience Engineering Papers Blog: Kitchen Soap Github: Cluster API SIG Github: Bloomberg Goldpinger Github: Tmobile Magtape Youtube: Resilience in Complex Adaptive Systems Youtube: Resilience Engineering Playlist Youtube: The Gotchas of Zero-Downtime Traffic /w Kubernetes  </description>
     </item>
     
     <item>
