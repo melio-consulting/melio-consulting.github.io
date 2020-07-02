@@ -16,8 +16,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/resources/2020-02-13/</guid>
-      <description>Webinar - Kubernetes Fundamentals Session Recording Zoom share link
-Slides Google Docs: Webinar - Kubernetes Fundamentals</description>
+      <description>Webinar - Kubernetes Fundamentals Summary We enjoyed how Roger simplifies the complex jargons and concepts into simple analogies. The demo on local deployment of a Kubernetes cluster was easy-to-follow and comprehensive.
+Here is a summary on one of the Q&amp;amp;A&amp;rsquo;s:
+ ❓ What is the landscape of Kubernetes in South Africa enterprise? Are they using it in production or are still hesitant? 💬 Enterprise are paying a conscious effort in developing the competency in cloud-native technologies.</description>
     </item>
     
     <item>
@@ -26,9 +27,9 @@ Slides Google Docs: Webinar - Kubernetes Fundamentals</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/resources/2020-05-26/</guid>
-      <description>[Kubernetes] Embracing Failure: Lessons learned from 50 post-mortems Session Recording https://youtu.be/ad2E5rcT_fw
-Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems
-References  PDF: How Complex Systems Fail Kubernetes Failure Stories Open Policy Agent Node Local DNS Resilience Engineering Papers Blog: Kitchen Soap Github: Cluster API SIG Github: Bloomberg Goldpinger Github: Tmobile Magtape Youtube: Resilience in Complex Adaptive Systems Youtube: Resilience Engineering Playlist Youtube: The Gotchas of Zero-Downtime Traffic /w Kubernetes  </description>
+      <description>[Kubernetes] Embracing Failure: Lessons learned from 50 post-mortems Summary In this session, Moshe&amp;rsquo;s covered his anecdotal lessons learned on deploying Kubernetes:
+ ⛔ Some of the most common failure modes of Kubernetes clusters ⭐ Best practices you can apply to mitigate these failure modes 👨‍💻 A live demo simulating failure and then applying policies to prevent it  Session Recording https://youtu.be/ad2E5rcT_fw
+Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems</description>
     </item>
     
     <item>
@@ -37,7 +38,8 @@ References  PDF: How Complex Systems Fail Kubernetes Failure Stories Open Policy
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/resources/2020-06-29/</guid>
-      <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Session Recording https://youtu.be/5aZB_EF6v_s
+      <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Summary Bradley Cloete gave us a glimpse into the power and simplicity of Rancher&amp;rsquo;s RKE. RKE&amp;rsquo;s easy Kubernetes life cycle management is a breeze for novice and experts alike. Bradley showed us how Kubernetes&amp;rsquo; day 2 operations (cluster backup/restore/scale) can be straightforward with RKE.
+Session Recording https://youtu.be/5aZB_EF6v_s
 References  Rancher Academy: Certified Rancher Operator: Level 1  </description>
     </item>
     
