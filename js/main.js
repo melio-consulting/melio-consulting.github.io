@@ -74,7 +74,7 @@ $(document).ready(function() {
 
 
   $(window).on('scroll', () => {
-    if($('#homePage')) {
+    if($('#homePage').data('home')) {
       requestAnimationFrame(function() {
         let window_height = $(window).height();
         let window_top_position = $(window).scrollTop();
