@@ -96,11 +96,11 @@ body {
   font-weight: 400;
   color: #6c7279; }
 
-ul, ol {
+ul.social-icons, ol {
   margin: 0;
   padding: 0; }
 
-ul li {
+ul.social-icons li {
   list-style: none; }
 
 .section {
