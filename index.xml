@@ -29,8 +29,7 @@ Here is a summary on one of the Q&amp;amp;A&amp;rsquo;s:
       
       <guid>https://melio.ai/events/resources/2020-05-26/</guid>
       <description>[Kubernetes] Embracing Failure: Lessons learned from 50 post-mortems Summary In this session, Moshe&amp;rsquo;s covered his anecdotal lessons learned on deploying Kubernetes:
- ⛔ Some of the most common failure modes of Kubernetes clusters ⭐ Best practices you can apply to mitigate these failure modes 👨‍💻 A live demo simulating failure and then applying policies to prevent it  Session Recording https://youtu.be/ad2E5rcT_fw
-Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems</description>
+ ⛔ Some of the most common failure modes of Kubernetes clusters ⭐ Best practices you can apply to mitigate these failure modes 👨‍💻 A live demo simulating failure and then applying policies to prevent it  Session Recording   Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems</description>
     </item>
     
     <item>
@@ -40,8 +39,18 @@ Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems</de
       
       <guid>https://melio.ai/events/resources/2020-06-29/</guid>
       <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Summary Bradley Cloete gave us a glimpse into the power and simplicity of Rancher&amp;rsquo;s RKE. RKE&amp;rsquo;s easy Kubernetes life cycle management is a breeze for novice and experts alike. Bradley showed us how Kubernetes&amp;rsquo; day 2 operations (cluster backup/restore/scale) can be straightforward with RKE.
-Session Recording https://youtu.be/5aZB_EF6v_s
-References  Rancher Academy: Certified Rancher Operator: Level 1  </description>
+Session Recording   References  Rancher Academy: Certified Rancher Operator: Level 1  </description>
+    </item>
+    
+    <item>
+      <title>CNCJ - July, 2020</title>
+      <link>https://melio.ai/events/resources/2020-07-29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2020-07-29/</guid>
+      <description>Multi-cluster Kubernetes, the easy way [with Rancher] Summary We had the pleasure of hosting Tom Otomanski at our July CNCJ meetup last week. Tom showcased how Rancher enables effortless management of multiple Kubernetes clusters through a single interface.
+In this session, Tom covered:
+  Creating a Kubernetes cluster on AWS through Rancher  Managing Kubernetes cluster with common operations through Rancher  Showcased all Kubernetes configurations in the Rancher GUI  Session Recording   References  Slides (PDF) Rancher Server Documentation Rancher Blog Kubernetes Master Class Rancher Academy Rancher Labs YouTube Rancher Users Slack  </description>
     </item>
     
     <item>
@@ -142,7 +151,7 @@ This workshop is only relevant to attendees that have Kubernetes currently deplo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/meetups/</guid>
-      <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ) Upcoming Wed, 29 July, 6:00PM Multi-cluster Kubernetes, the easy way [with Rancher]  Online Webinar   In a world where spinning up Kubernetes clusters is as easy as &#34;</description>
+      <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ) Wed, 29 July, 6:00PM Multi-cluster Kubernetes, the easy way [with Rancher]  Online Webinar   In a world where spinning up Kubernetes clusters is as easy as &#34;</description>
     </item>
     
   </channel>
