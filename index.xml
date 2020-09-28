@@ -55,7 +55,9 @@ In this session, Tom covered:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/resources/2020-09-23/</guid>
-      <description>Using Google Anthos to unlock cloud-native hybridization awesomeness Summary Session Recording References  Slides (PPT)  </description>
+      <description>Using Google Anthos to unlock cloud-native hybridization awesomeness Summary Google Anthos has come a long way since its GA announcement more than a year ago. Anthos is a combination of many services under the hood - all revolving around easing the deployment of Kubernetes anywhere and everywhere.
+Julian has taken us through how a hypothetical SaaS company leverages Anthos to deliver their products to their customers.
+In this session, Julian covered:</description>
     </item>
     
     <item>
