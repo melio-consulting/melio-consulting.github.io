@@ -5,11 +5,7 @@
     <link>https://melio.ai/events/</link>
     <description>Recent content in Events on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://melio.ai/events/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://melio.ai/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meetups</title>
       <link>https://melio.ai/events/meetups/</link>

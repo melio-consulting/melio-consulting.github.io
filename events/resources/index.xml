@@ -5,11 +5,7 @@
     <link>https://melio.ai/events/resources/</link>
     <description>Recent content in Resources on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://melio.ai/events/resources/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://melio.ai/events/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CNCJ - Feb, 2020</title>
       <link>https://melio.ai/events/resources/2020-02-13/</link>
@@ -37,7 +33,7 @@ Here is a summary on one of the Q&amp;amp;A&amp;rsquo;s:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/resources/2020-06-29/</guid>
-      <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Summary Bradley Cloete gave us a glimpse into the power and simplicity of Rancher&amp;rsquo;s RKE. RKE&amp;rsquo;s easy Kubernetes life cycle management is a breeze for novice and experts alike. Bradley showed us how Kubernetes&amp;rsquo; day 2 operations (cluster backup/restore/scale) can be straightforward with RKE.
+      <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Summary Bradley Cloete gave us a glimpse into the power and simplicity of Rancher&amp;rsquo;s RKE. RKE&amp;rsquo;s easy Kubernetes life cycle management is a breeze for novice and experts alike. Bradley showed us how Kubernetes&#39; day 2 operations (cluster backup/restore/scale) can be straightforward with RKE.
 Session Recording   References  Rancher Academy: Certified Rancher Operator: Level 1  </description>
     </item>
     
@@ -50,6 +46,15 @@ Session Recording   References  Rancher Academy: Certified Rancher Operator: Lev
       <description>Multi-cluster Kubernetes, the easy way [with Rancher] Summary We had the pleasure of hosting Tom Otomanski at our July CNCJ meetup last week. Tom showcased how Rancher enables effortless management of multiple Kubernetes clusters through a single interface.
 In this session, Tom covered:
   Creating a Kubernetes cluster on AWS through Rancher  Managing Kubernetes cluster with common operations through Rancher  Showcased all Kubernetes configurations in the Rancher GUI  Session Recording   References  Slides (PDF) Rancher Server Documentation Rancher Blog Kubernetes Master Class Rancher Academy Rancher Labs YouTube Rancher Users Slack  </description>
+    </item>
+    
+    <item>
+      <title>CNCJ - September, 2020</title>
+      <link>https://melio.ai/events/resources/2020-09-23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2020-09-23/</guid>
+      <description>Using Google Anthos to unlock cloud-native hybridization awesomeness Summary Session Recording References  Slides (PPT)  </description>
     </item>
     
   </channel>

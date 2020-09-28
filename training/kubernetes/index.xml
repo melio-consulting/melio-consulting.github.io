@@ -6,11 +6,7 @@
     <description>Recent content in Kubernetes Workshop Series on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2019 22:09:34 +0200</lastBuildDate>
-    
-	<atom:link href="https://melio.ai/training/kubernetes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 04 Apr 2019 22:09:34 +0200</lastBuildDate><atom:link href="https://melio.ai/training/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker: Introdocktion</title>
       <link>https://melio.ai/training/kubernetes/docker/</link>
@@ -54,7 +50,7 @@ This workshop aims to showcase the usage of a Kubernetes cluster in a realistic 
       <guid>https://melio.ai/training/kubernetes/advanced/</guid>
       <description>This workshop is geared towards teams that have implemented Kubernetes within their organisations and would like to further their Kubernetes journey by learning about the best practices around configuring a production-ready, enterprise-level Kubernetes cluster.
 This workshop is only relevant to attendees that have Kubernetes currently deployed either in a development or production environment.
- Agenda This workshop is tailored to the attendees&amp;rsquo; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
+ Agenda This workshop is tailored to the attendees&#39; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
     </item>
     
   </channel>
