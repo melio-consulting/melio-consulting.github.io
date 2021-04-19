@@ -7,45 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://melio.ai/events/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CNCJ - Feb, 2020</title>
-      <link>https://melio.ai/events/resources/2020-02-13/</link>
+      <title>CNCJ - April, 2021</title>
+      <link>https://melio.ai/events/resources/2021-04-14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://melio.ai/events/resources/2020-02-13/</guid>
-      <description>Webinar - Kubernetes Fundamentals Summary We enjoyed how Roger simplifies the complex jargons and concepts into simple analogies. The demo on local deployment of a Kubernetes cluster was easy-to-follow and comprehensive.
-Here is a summary on one of the Q&amp;amp;A&amp;rsquo;s:
- ❓ What is the landscape of Kubernetes in South Africa enterprise? Are they using it in production or are still hesitant? 💬 Enterprise are paying a conscious effort in developing the competency in cloud-native technologies.</description>
+      <guid>https://melio.ai/events/resources/2021-04-14/</guid>
+      <description>How to think Cloud Native for your next Data project? Summary We invited cloud-native specialist Harry Lee and data specialist Archana Arakkal to chat about how the two ecosystems are growing to serve the community. And how you, as a practitioner, can start thinking cloud-native to improve your efficiency!
+Session Recording   </description>
     </item>
     
     <item>
-      <title>CNCJ - May, 2020</title>
-      <link>https://melio.ai/events/resources/2020-05-26/</link>
+      <title>CNCJ - November, 2020</title>
+      <link>https://melio.ai/events/resources/2020-11-25/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://melio.ai/events/resources/2020-05-26/</guid>
-      <description>[Kubernetes] Embracing Failure: Lessons learned from 50 post-mortems Summary In this session, Moshe&amp;rsquo;s covered his anecdotal lessons learned on deploying Kubernetes:
- ⛔ Some of the most common failure modes of Kubernetes clusters ⭐ Best practices you can apply to mitigate these failure modes 👨‍💻 A live demo simulating failure and then applying policies to prevent it  Session Recording   Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems</description>
-    </item>
-    
-    <item>
-      <title>CNCJ - June, 2020</title>
-      <link>https://melio.ai/events/resources/2020-06-29/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/events/resources/2020-06-29/</guid>
-      <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Summary Bradley Cloete gave us a glimpse into the power and simplicity of Rancher&amp;rsquo;s RKE. RKE&amp;rsquo;s easy Kubernetes life cycle management is a breeze for novice and experts alike. Bradley showed us how Kubernetes&#39; day 2 operations (cluster backup/restore/scale) can be straightforward with RKE.
-Session Recording   References  Rancher Academy: Certified Rancher Operator: Level 1  </description>
-    </item>
-    
-    <item>
-      <title>CNCJ - July, 2020</title>
-      <link>https://melio.ai/events/resources/2020-07-29/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/events/resources/2020-07-29/</guid>
-      <description>Multi-cluster Kubernetes, the easy way [with Rancher] Summary We had the pleasure of hosting Tom Otomanski at our July CNCJ meetup last week. Tom showcased how Rancher enables effortless management of multiple Kubernetes clusters through a single interface.
-In this session, Tom covered:
-  Creating a Kubernetes cluster on AWS through Rancher  Managing Kubernetes cluster with common operations through Rancher  Showcased all Kubernetes configurations in the Rancher GUI  Session Recording   References  Slides (PDF) Rancher Server Documentation Rancher Blog Kubernetes Master Class Rancher Academy Rancher Labs YouTube Rancher Users Slack  </description>
+      <guid>https://melio.ai/events/resources/2020-11-25/</guid>
+      <description>If it ain&amp;rsquo;t broke, rewrite it! - Inject innovation in restrictive environments Summary How do you rewrite code while keeping the business running? Jose Pita has taken us through his team&amp;rsquo;s cloud native journey and shared his team&amp;rsquo;s experiences in overcoming technical as well as business challenges.
+In this session, Jose covered:
+  Standard Bank Alchemy team&amp;rsquo;s cloud native journey  How to build trust and speak to business  How to nurture a long lasting team culture  How to build a team and not a product  Session Recording   References  Slides (PPT)  </description>
     </item>
     
     <item>
@@ -60,14 +39,45 @@ In this session, Julian covered:</description>
     </item>
     
     <item>
-      <title>CNCJ - November, 2020</title>
-      <link>https://melio.ai/events/resources/2020-11-25/</link>
+      <title>CNCJ - July, 2020</title>
+      <link>https://melio.ai/events/resources/2020-07-29/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://melio.ai/events/resources/2020-11-25/</guid>
-      <description>If it ain&amp;rsquo;t broke, rewrite it! - Inject innovation in restrictive environments Summary How do you rewrite code while keeping the business running? Jose Pita has taken us through his team&amp;rsquo;s cloud native journey and shared his team&amp;rsquo;s experiences in overcoming technical as well as business challenges.
-In this session, Jose covered:
-  Standard Bank Alchemy team&amp;rsquo;s cloud native journey  How to build trust and speak to business  How to nurture a long lasting team culture  How to build a team and not a product  Session Recording   References  Slides (PPT)  </description>
+      <guid>https://melio.ai/events/resources/2020-07-29/</guid>
+      <description>Multi-cluster Kubernetes, the easy way [with Rancher] Summary We had the pleasure of hosting Tom Otomanski at our July CNCJ meetup last week. Tom showcased how Rancher enables effortless management of multiple Kubernetes clusters through a single interface.
+In this session, Tom covered:
+  Creating a Kubernetes cluster on AWS through Rancher  Managing Kubernetes cluster with common operations through Rancher  Showcased all Kubernetes configurations in the Rancher GUI  Session Recording   References  Slides (PDF) Rancher Server Documentation Rancher Blog Kubernetes Master Class Rancher Academy Rancher Labs YouTube Rancher Users Slack  </description>
+    </item>
+    
+    <item>
+      <title>CNCJ - June, 2020</title>
+      <link>https://melio.ai/events/resources/2020-06-29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2020-06-29/</guid>
+      <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Summary Bradley Cloete gave us a glimpse into the power and simplicity of Rancher&amp;rsquo;s RKE. RKE&amp;rsquo;s easy Kubernetes life cycle management is a breeze for novice and experts alike. Bradley showed us how Kubernetes&#39; day 2 operations (cluster backup/restore/scale) can be straightforward with RKE.
+Session Recording   References  Rancher Academy: Certified Rancher Operator: Level 1  </description>
+    </item>
+    
+    <item>
+      <title>CNCJ - May, 2020</title>
+      <link>https://melio.ai/events/resources/2020-05-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2020-05-26/</guid>
+      <description>[Kubernetes] Embracing Failure: Lessons learned from 50 post-mortems Summary In this session, Moshe&amp;rsquo;s covered his anecdotal lessons learned on deploying Kubernetes:
+ ⛔ Some of the most common failure modes of Kubernetes clusters ⭐ Best practices you can apply to mitigate these failure modes 👨‍💻 A live demo simulating failure and then applying policies to prevent it  Session Recording   Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems</description>
+    </item>
+    
+    <item>
+      <title>CNCJ - Feb, 2020</title>
+      <link>https://melio.ai/events/resources/2020-02-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2020-02-13/</guid>
+      <description>Webinar - Kubernetes Fundamentals Summary We enjoyed how Roger simplifies the complex jargons and concepts into simple analogies. The demo on local deployment of a Kubernetes cluster was easy-to-follow and comprehensive.
+Here is a summary on one of the Q&amp;amp;A&amp;rsquo;s:
+ ❓ What is the landscape of Kubernetes in South Africa enterprise? Are they using it in production or are still hesitant? 💬 Enterprise are paying a conscious effort in developing the competency in cloud-native technologies.</description>
     </item>
     
   </channel>
