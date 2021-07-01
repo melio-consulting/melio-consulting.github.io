@@ -100,3 +100,8 @@ a:hover {
 #sidebar hr {
     border-color: var(--MENU-SECTION-HR-color);
 }
+
+#chapter p {
+    text-align: left;
+    font-size: 1.1rem;
+}

@@ -1,115 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://melio.ai/training/kubernetes/</loc>
     <lastmod>2019-04-04T22:09:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/training/</loc>
     <lastmod>2019-04-04T22:09:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/training/kubeflow/</loc>
     <lastmod>2019-11-07T13:00:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/training/kubernetes/docker/</loc>
     <lastmod>2019-04-05T14:26:38+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/training/kubeflow/kubeflow/</loc>
     <lastmod>2019-04-05T14:26:38+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/training/kubernetes/fundamental/</loc>
     <lastmod>2019-04-04T23:35:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/training/kubernetes/intermediate/</loc>
     <lastmod>2019-04-04T22:14:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/training/kubernetes/advanced/</loc>
     <lastmod>2019-04-04T23:37:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/events/resources/2021-04-14/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/events/resources/2020-11-25/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/events/resources/2020-09-23/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/events/resources/2020-07-29/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/events/resources/2020-06-29/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/events/resources/2020-05-26/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/events/resources/2020-02-13/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://melio.ai/careers/data-scientist/</loc>
+  </url><url>
+    <loc>https://melio.ai/careers/dev-ops-engineer/</loc>
+  </url><url>
+    <loc>https://melio.ai/careers/machine-learning-engineer/</loc>
+  </url><url>
     <loc>https://melio.ai/</loc>
     <lastmod>2019-11-07T13:00:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/training/pricing/</loc>
     <lastmod>2019-04-08T17:19:21+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/how/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/privacy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/use-cases/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://melio.ai/careers/</loc>
+  </url><url>
     <loc>https://melio.ai/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/events/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/events/meetups/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://melio.ai/our-team/</loc>
+  </url><url>
     <loc>https://melio.ai/events/resources/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://melio.ai/tags/</loc>
   </url>
-  
 </urlset>
