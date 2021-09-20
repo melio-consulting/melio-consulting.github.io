@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://melio.ai/events/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CNCJ - July, 2021</title>
+      <link>https://melio.ai/events/resources/2021-07-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2021-07-28/</guid>
+      <description>Transforming into a zero-bug super developer on Kubernetes Summary For our July meetup, we have Lepolesa Libete coming to explore a cool Kubernetes tool: DevSpace with us.
+DevSpace helps developers build applications that run on Kubernetes. It brings the deployment environment (i.e. Kubernetes) closer to developers working on the application. This empowers developers to collaborate and discover issues early during development.
+DevSpace lets you start the entire deployment workflow with a single command.</description>
+    </item>
+    
+    <item>
       <title>CNCJ - April, 2021</title>
       <link>https://melio.ai/events/resources/2021-04-14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

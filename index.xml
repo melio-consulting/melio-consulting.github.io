@@ -64,6 +64,17 @@ This workshop is only relevant to attendees that have Kubernetes currently deplo
     </item>
     
     <item>
+      <title>CNCJ - July, 2021</title>
+      <link>https://melio.ai/events/resources/2021-07-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2021-07-28/</guid>
+      <description>Transforming into a zero-bug super developer on Kubernetes Summary For our July meetup, we have Lepolesa Libete coming to explore a cool Kubernetes tool: DevSpace with us.
+DevSpace helps developers build applications that run on Kubernetes. It brings the deployment environment (i.e. Kubernetes) closer to developers working on the application. This empowers developers to collaborate and discover issues early during development.
+DevSpace lets you start the entire deployment workflow with a single command.</description>
+    </item>
+    
+    <item>
       <title>CNCJ - April, 2021</title>
       <link>https://melio.ai/events/resources/2021-04-14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -145,7 +156,7 @@ Here is a summary on one of the Q&amp;amp;A&amp;rsquo;s:
       
       <guid>https://melio.ai/careers/data-scientist/</guid>
       <description>Melio is seeking a passionate Data Scientist to join our expanding team:
- Level: Junior/Intermediate Position: Full time Salary: Based on technical experience Location: South Africa (Remote)   As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.
+ Level: Junior or Intermediate Position: Full time Salary: Based on technical experience Location: South Africa (Remote)   As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.
 That being said, this specific role is for a team member to work in the Machine Learning AI team as a Data Scientit.</description>
     </item>
     
@@ -159,6 +170,18 @@ That being said, this specific role is for a team member to work in the Machine 
  Level: Intermediate Position: Full time Salary: Negotiable based on technical experience Location: South Africa (Remote)  Minimum 1 year of experience working with Kubernetes (essential)
 Have software (fullstack) development experience
  As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.</description>
+    </item>
+    
+    <item>
+      <title>Fullstack Engineer</title>
+      <link>https://melio.ai/careers/fullstack-engineer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/careers/fullstack-engineer/</guid>
+      <description>Melio is seeking a passionate Fullstack Engineer to join our expanding team:
+ Level: Intermediate - Senior Position: Full time Salary: Negotiable based on technical experience Location: South Africa (Remote)  Minimum 2 years of experience working with as a fullstack engineer.
+Backend experience preferrably with Python but Go and Java experience are fine. Frontend with React / Vue JS.
+ As a fast-paced start-up, our day-to-day is never the same.</description>
     </item>
     
     <item>
@@ -214,7 +237,7 @@ That being said, this specific role is for a team member to work in the Machine 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/meetups/</guid>
-      <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ) Upcoming Wed, 28 July, 6:00PM Transforming into a zero-bug super developer on Kubernetes  Online Webinar   DevSpace helps developers build applications that run on Kubernetes.</description>
+      <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ) Wed, 28 July, 6:00PM Transforming into a zero-bug super developer on Kubernetes  Online Webinar   DevSpace helps developers build applications that run on Kubernetes.</description>
     </item>
     
   </channel>

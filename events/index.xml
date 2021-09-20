@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/meetups/</guid>
-      <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ) Upcoming Wed, 28 July, 6:00PM Transforming into a zero-bug super developer on Kubernetes  Online Webinar   DevSpace helps developers build applications that run on Kubernetes.</description>
+      <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ) Wed, 28 July, 6:00PM Transforming into a zero-bug super developer on Kubernetes  Online Webinar   DevSpace helps developers build applications that run on Kubernetes.</description>
     </item>
     
   </channel>
