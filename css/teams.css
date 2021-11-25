@@ -16,8 +16,17 @@
     text-align: center;
 }
 
+.team-col-outer {
+    
+}
+
+.team-col-inner {
+    display: flex;
+    justify-content: center;
+}
+
 .our-team {
-    text-align: center;
+    /* text-align: center; */
     overflow: hidden;
     position: relative;
     background-color: #ede7e3;
@@ -128,4 +137,3 @@
 .team-meet {
     width: 100px;
 }
-

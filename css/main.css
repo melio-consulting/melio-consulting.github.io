@@ -360,7 +360,7 @@ ul.social-icons li {
     margin: auto;
   }
 
-  .row {
+  .caroslide__row {
     display: flex;
     flex-direction: column;
   }
@@ -381,17 +381,8 @@ ul.social-icons li {
     text-align: center;
   }
 
-  .col-1 {
+  .caroslide__col {
     max-width: 100%;
-  }
-
-  .col-8 {
-    max-width: 100%;
-  }
-
-  .col-3 {
-    max-width: 100%;
-    flex: 0 0 0;
   }
 
   .caroslide__grid_data-left {
