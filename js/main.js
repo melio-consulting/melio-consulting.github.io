@@ -1,9 +1,9 @@
 /*jshint esversion: 6 */
 
-$(document).ready(function() {
+$(document).ready(function () {
 
   // Text typing
-  let TxtRotate = function(el, toRotate, period) {
+  let TxtRotate = function (el, toRotate, period) {
     this.toRotate = toRotate;
     this.el = el;
     this.loopNum = 0;
@@ -13,7 +13,7 @@ $(document).ready(function() {
     this.isDeleting = false;
   };
 
-  TxtRotate.prototype.tick = function() {
+  TxtRotate.prototype.tick = function () {
     let i = this.loopNum % this.toRotate.length;
     let fullTxt = this.toRotate[i];
 
@@ -23,12 +23,14 @@ $(document).ready(function() {
       this.txt = fullTxt.substring(0, this.txt.length + 1);
     }
 
-    this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+    this.el.innerHTML = '<span class="wrap">' + this.txt + '</span>';
 
     let that = this;
     let delta = 180 - Math.random() * 100;
 
-    if (this.isDeleting) { delta /= 2; }
+    if (this.isDeleting) {
+      delta /= 2;
+    }
 
     if (!this.isDeleting && this.txt === fullTxt) {
       delta = this.period;
@@ -39,13 +41,13 @@ $(document).ready(function() {
       delta = 500;
     }
 
-    setTimeout(function() {
+    setTimeout(function () {
       that.tick();
     }, delta);
   };
 
   let elements = document.getElementsByClassName('txt-rotate');
-  for (var i=0; i<elements.length; i++) {
+  for (var i = 0; i < elements.length; i++) {
     var toRotate = elements[i].getAttribute('data-rotate');
     var period = elements[i].getAttribute('data-period');
     if (toRotate) {
@@ -74,8 +76,8 @@ $(document).ready(function() {
 
 
   $(window).on('scroll', () => {
-    if($('#homePage').data('home')) {
-      requestAnimationFrame(function() {
+    if ($('#homePage').data('home')) {
+      requestAnimationFrame(function () {
         let window_height = $(window).height();
         let window_top_position = $(window).scrollTop();
         let window_bottom_position = (window_top_position + window_height);
@@ -87,23 +89,23 @@ $(document).ready(function() {
 
         //check to see if this current container is within viewport
         if ((mlops_element_bottom_position >= window_top_position) &&
-            (mlops_element_top_position <= window_bottom_position)) {
-            $('#devops-mask-circle').attr('cx', (index, currentValue) => {
-              devops_value = 100 + (window_bottom_position - mlops_element_top_position)*(200/mlops_element_height);
-              return devops_value < 350 ? devops_value : 350;
-            });
-            $('#ml-mask-circle').attr('cx', (index, currentValue) => {
-              ml_value = 300 - (window_bottom_position - mlops_element_top_position)*(200/mlops_element_height);
-              return ml_value < 50 ? 50 : ml_value;
-            });
-            $('#devops-mask-circle-text').attr('x', (index, currentValue) => {
-              devops_value = (window_bottom_position - mlops_element_top_position)*(200/mlops_element_height) + 50;
-              return devops_value < 270 ? devops_value : 270;
-            });
-            $('#ml-mask-circle-text').attr('x', (index, currentValue) => {
-              ml_value = 320 - (window_bottom_position - mlops_element_top_position)*(200/mlops_element_height);
-              return ml_value < 100 ? 100 : ml_value;
-            });
+          (mlops_element_top_position <= window_bottom_position)) {
+          $('#devops-mask-circle').attr('cx', (index, currentValue) => {
+            devops_value = 100 + (window_bottom_position - mlops_element_top_position) * (200 / mlops_element_height);
+            return devops_value < 350 ? devops_value : 350;
+          });
+          $('#ml-mask-circle').attr('cx', (index, currentValue) => {
+            ml_value = 300 - (window_bottom_position - mlops_element_top_position) * (200 / mlops_element_height);
+            return ml_value < 50 ? 50 : ml_value;
+          });
+          $('#devops-mask-circle-text').attr('x', (index, currentValue) => {
+            devops_value = (window_bottom_position - mlops_element_top_position) * (200 / mlops_element_height) + 50;
+            return devops_value < 270 ? devops_value : 270;
+          });
+          $('#ml-mask-circle-text').attr('x', (index, currentValue) => {
+            ml_value = 320 - (window_bottom_position - mlops_element_top_position) * (200 / mlops_element_height);
+            return ml_value < 100 ? 100 : ml_value;
+          });
         }
       });
     }
@@ -165,30 +167,33 @@ observer = new IntersectionObserver((entries) => {
       entry.target.style.animation = 'none';
     }
   });
-  }, {rootMargin: "0px 0px -350px 0px"});
+}, {
+  rootMargin: "0px 0px -350px 0px"
+});
 
 mlops.forEach(image => {
   observer.observe(image);
 });
 
-function setCookie(name,value,days) {
-    var expires = "";
-    if (days) {
-        var date = new Date();
-        date.setTime(date.getTime() + (days*24*60*60*1000));
-        expires = "; expires=" + date.toUTCString();
-    }
-    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+function setCookie(name, value, days) {
+  var expires = "";
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    expires = "; expires=" + date.toUTCString();
+  }
+  document.cookie = name + "=" + (value || "") + expires + "; path=/";
 }
+
 function getCookie(name) {
-    var nameEQ = name + "=";
-    var ca = document.cookie.split(';');
-    for(var i=0;i < ca.length;i++) {
-        var c = ca[i];
-        while (c.charAt(0)==' ') c = c.substring(1,c.length);
-        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-    }
-    return null;
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+  }
+  return null;
 }
 
 // function eraseCookie(name) {
@@ -196,9 +201,9 @@ function getCookie(name) {
 // }
 
 function cookieConsent() {
-    if (!getCookie('allowCookies')) {
-        $('.toast').toast('show')
-    }
+  if (!getCookie('allowCookies')) {
+    $('.toast').toast('show')
+  }
 }
 
 // $('#btnDeny').click(()=>{
@@ -206,18 +211,18 @@ function cookieConsent() {
 //     $('.toast').toast('hide')
 // })
 
-$('#btnAccept').click(()=>{
-    setCookie('allowCookies','1',730)
-    $('.toast').toast('hide')
+$('#btnAccept').click(() => {
+  setCookie('allowCookies', '1', 730)
+  $('.toast').toast('hide')
 })
 
 // load
 cookieConsent()
 
 // for demo / testing only
-$('#btnReset').click(()=>{
-    // clear cookie to show toast after acceptance
-    eraseCookie('allowCookies')
-    $('.toast').toast('show')
+$('#btnReset').click(() => {
+  // clear cookie to show toast after acceptance
+  eraseCookie('allowCookies')
+  $('.toast').toast('show')
 })
 
