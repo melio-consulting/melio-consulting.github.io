@@ -260,7 +260,145 @@ ul.social-icons li {
   color: #fff;
 }
 
-/* ============== SLIDERS ============== */
+/* ==========================================================================
+	$Bootstrap Sliders
+========================================================================== */
+
+.carousel-control-prev-icon {
+  margin-right: 24px;
+}
+
+.carousel-control-next-icon {
+  margin-left: 24px;
+}
+
+/* ============== USE CASES ============== */
+
+.use-card {
+  max-width: 100%;
+  margin: auto;
+  padding: 0px;
+}
+
+.use-card__article {
+  max-width: 100%;
+  background-color: #154c57;
+  overflow: hidden;
+  border-radius: 10px;
+  padding: 0px;
+}
+
+.use-card__article a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* .use-card__article:hover {
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
+} */
+
+.use-card__thumb {
+  height: 245px;
+  overflow: hidden;
+  background-color: #fff;
+  transition: height 0.5s;
+}
+
+.use-card__thumb img {
+  width: 100%;
+  display: block;
+  opacity: 1;
+  transform: scale(1);
+  transition: opacity 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+}
+
+.use-card__article:hover .use-card__thumb {
+  height: 130px;
+}
+
+.use-card__article:hover .use-card__thumb img {
+  opacity: 0.6;
+  transform: scale(1.2);
+}
+
+.use-card__body {
+  position: relative;
+  height: 120px;
+  padding: 10px 30px 10px 30px;
+  transition: height 0.5s;
+}
+
+.use-card__article:hover .use-card__body {
+  height: 250px;
+}
+
+.use-card__category {
+  position: absolute;
+  top: -25px;
+  left: 0;
+  height: 25px;
+  padding: 0 30px;
+  background-color: #ef9035;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 11px;
+  line-height: 25px;
+}
+
+.use-card__title {
+  margin: 0;
+  color: #fff;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.use-card__subtitle {
+  margin: 0;
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #ef9035;
+}
+
+.use-card__description {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 27px;
+  opacity: 0;
+  transform: translateY(45px);
+  transition: opacity 0.3s;
+  transition: opacity 0.3s, transform 0.3s;
+  transition: opacity 0.3s, transform 0.3s;
+  transition-delay: 0s;
+}
+
+.use-card__article:hover .use-card__description {
+  opacity: 1;
+  transform: translateY(0px);
+  transition-delay: 0.2s;
+}
+
+.use-card__footer {
+  position: absolute;
+  bottom: 12px;
+  left: 20px;
+  right: 20px;
+  font-size: 11px;
+  color: #A3A9A2;
+}
+
+.use-card__bottom {
+  background-color: #d9eff3;
+  height: 42px;
+}
+
+
+
+/* ============== TEAM CARDS ============== */
 
 .caroslide {
   border-radius: 25px;
@@ -298,13 +436,13 @@ ul.social-icons li {
 
 .caroslide__grid_data-right {
   background-color: #d9eff3;
-  
+
   /* #d9eff3 */
 }
 
 .caroslide-profile {
   margin: 0;
-  position: absolute;  
+  position: absolute;
   left: 92%;
   top: 50px;
   border: 6px solid #fff;
@@ -313,9 +451,7 @@ ul.social-icons li {
   width: 300px;
 }
 
-.team-links {
-  
-}
+.team-links {}
 
 .carousel-control-prev {
   width: 5%;
@@ -339,114 +475,19 @@ ul.social-icons li {
 .text--sub {
   color: white;
   font-family: 'Titillium Web', sans-serif;
+  font-size: 1rem;
 }
 
 .text--normal {
   color: white;
+  font-size: 16px;
 }
 
 .team-title {
   color: #ef9035;
   font-weight: bold;
   font-family: 'Titillium Web', sans-serif;
-  font-size: 1.2rem;
-}
-
-/* Media query for team cards in mobile view */
-@media screen and (max-width: 900px) {
-
-  .caroslide__smallview {
-    width: 350px;
-    margin: auto;
-  }
-
-  .caroslide__row {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .carousel-inner {
-    border-radius: 10px;
-  }
-
-  .caroslide__text-rotate-outer {
-    writing-mode: horizontal-tb; 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .caroslide__text-rotate-inner {
-    transform: rotate(0deg);
-    text-align: center;
-  }
-
-  .caroslide__col {
-    max-width: 100%;
-  }
-
-  .caroslide__grid_data-left {
-    background-color: #ef9035;
-  }
-
-  .caroslide__grid_data-mid {
-    background-color: #154c57;
-    padding-top: 15px;
-    padding-bottom: 30px;
-    padding-left: 40px;
-    padding-right: 40px;
-    position: relative;    
-  }
-
-  .caroslide__grid_data-right {
-    background-color: #d9eff3;
-    padding-bottom: 44px;
-  }
-
-  .caroslide-profile {
-    position: absolute;
-    border: 6px solid #fff;
-    top: 58px;
-    left: 103px;
-    height: 150px;
-    width: 150px;
-  }
-
-  .social-icons {
-    display: flex;
-    justify-content: center;
-  }
-
-  .text--vert {
-    font-size: 1.5rem;
-    margin: 0;
-    padding: 10px 10px;
-  }
-
-  .text--big {
-    font-size: 2rem !important;
-    padding-bottom: 155px;
-    text-align: center;
-  }
-
-  .text--sub {
-    text-align: center;
-  }
-
-  .text--normal {
-    text-align: justify;
-    height: 210px;
-    max-height: 210px;
-  }
-
-  .carousel-control-prev {
-    width: 10%;
-  }
-  
-  .carousel-control-next {
-    width: 10%;
-  }
-
+  font-size: 1.3rem;
 }
 
 /* ==========================================================================
@@ -1095,3 +1136,139 @@ ul.social-icons li {
 /* ==========================================================================
 	$CSS Animation
 ========================================================================== */
+
+/* ==========================================================================
+	Media queries
+========================================================================== */
+
+@media screen and (max-width: 1100px) {
+
+  /* TEAM CARDS MEDIA QUERY */
+  .caroslide__smallview {
+    width: 350px;
+    margin: auto;
+  }
+
+  .caroslide__row {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .carousel-inner {
+    border-radius: 10px;
+  }
+
+  .caroslide__text-rotate-outer {
+    writing-mode: horizontal-tb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .caroslide__text-rotate-inner {
+    transform: rotate(0deg);
+    text-align: center;
+  }
+
+  .caroslide__col {
+    max-width: 100%;
+  }
+
+  .caroslide__grid_data-left {
+    background-color: #ef9035;
+  }
+
+  .caroslide__grid_data-mid {
+    background-color: #154c57;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    position: relative;
+  }
+
+  .caroslide__grid_data-right {
+    background-color: #d9eff3;
+    padding-bottom: 44px;
+  }
+
+  .caroslide-profile {
+    position: absolute;
+    border: 6px solid #fff;
+    top: 58px;
+    left: 103px;
+    height: 150px;
+    width: 150px;
+  }
+
+  .social-icons {
+    display: flex;
+    justify-content: center;
+  }
+
+  .text--vert {
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 10px 10px;
+  }
+
+  .text--big {
+    font-size: 2rem !important;
+    padding-bottom: 155px;
+    text-align: center;
+  }
+
+  .text--sub {
+    text-align: center;
+  }
+
+  .text--normal {
+    font-size: 14px;
+    text-align: justify;
+    height: 210px;
+    max-height: 210px;
+  }
+
+  .carousel-control-prev {
+    width: 15%;
+  }
+
+  .carousel-control-next {
+    width: 15%;
+  }
+
+  /* USE CARDS MEDIA QUERY */
+  
+  .use-card {
+    width: 350px;
+  }
+  .use-card__article {
+    width: 350px;
+  }
+
+  .use-card__thumb img {
+    width: 120%;
+    display: block;
+  }
+
+  .use-card__body {
+    height: 180px;
+  }
+
+  .use-card__article:hover .use-card__body {
+    height: 440px;
+  }
+
+  .use-card__title {
+    font-size: 18px;
+  }
+
+  .use-card__subtitle {
+    font-size: 16px;
+  }
+
+  .use-card__description {
+    font-size: 14px;
+  }
+
+}

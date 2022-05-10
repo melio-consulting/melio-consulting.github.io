@@ -1,0 +1,46 @@
+h1 {
+    margin-bottom: 0;
+}
+
+.img-header {
+    border-radius: 10px;
+}
+
+.sub-title {
+    text-align: center;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.container-quote {
+    background-color: #f7f5ec;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px 0 10px 0;
+    margin-bottom: 48px;
+}
+
+.info-headers {
+    text-align: center;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.problem-space {
+    text-align: center;
+}
+
+.problem-space__items {
+    background-color: #16697a; 
+    color: #fff;
+    font-weight: bold;
+}
+
+.quote {
+}
+
+#body-inner {
+    margin-bottom: 48px;
+}

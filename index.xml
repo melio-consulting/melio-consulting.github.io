@@ -60,7 +60,7 @@ This workshop aims to showcase the usage of a Kubernetes cluster in a realistic 
       <guid>https://melio.ai/training/kubernetes/advanced/</guid>
       <description>This workshop is geared towards teams that have implemented Kubernetes within their organisations and would like to further their Kubernetes journey by learning about the best practices around configuring a production-ready, enterprise-level Kubernetes cluster.
 This workshop is only relevant to attendees that have Kubernetes currently deployed either in a development or production environment.
- Agenda This workshop is tailored to the attendees&#39; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
+ Agenda This workshop is tailored to the attendees&amp;rsquo; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
     </item>
     
     <item>
@@ -124,7 +124,7 @@ In this session, Tom covered:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/resources/2020-06-29/</guid>
-      <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Summary Bradley Cloete gave us a glimpse into the power and simplicity of Rancher&amp;rsquo;s RKE. RKE&amp;rsquo;s easy Kubernetes life cycle management is a breeze for novice and experts alike. Bradley showed us how Kubernetes&#39; day 2 operations (cluster backup/restore/scale) can be straightforward with RKE.
+      <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Summary Bradley Cloete gave us a glimpse into the power and simplicity of Rancher&amp;rsquo;s RKE. RKE&amp;rsquo;s easy Kubernetes life cycle management is a breeze for novice and experts alike. Bradley showed us how Kubernetes&amp;rsquo; day 2 operations (cluster backup/restore/scale) can be straightforward with RKE.
 Session Recording   References  Rancher Academy: Certified Rancher Operator: Level 1  </description>
     </item>
     
@@ -185,6 +185,38 @@ Backend experience preferrably with Python but Go and Java experience are fine. 
     </item>
     
     <item>
+      <title>Improving data scientist productivity by 80%</title>
+      <link>https://melio.ai/use-cases/use-case-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/use-cases/use-case-1/</guid>
+      <description>Hello   with the implementation of an end-to-end machine learning platform  “ Fluid has simplified out model building and deployment process, and allowed for integration across our various platforms ”   Rainer Schilder - Lead Data Scientist   Case Study  Industry
+ Technology
+  Company Size
+ 51 - 200 employees
+  Project
+ Length 7 months
+  Team Size</description>
+    </item>
+    
+    <item>
+      <title>Leveraging Azure Machine Learning to improve billing accuracy and consistency</title>
+      <link>https://melio.ai/use-cases/use-case-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/use-cases/use-case-5/</guid>
+      <description>Hello   with the implementation of an end-to-end machine learning platform  -- “ This is the beginning of how we will change the way we work with data ”   GM - Pharmacy   Case Study  Industry
+ Health Care
+  Company Size
+ 10,001+ employees
+    Problem Space  Predictive Analytics
+Azure Insights
+Machine Learning
+Billing
+   Technology Used  #Python #AzureSQL #AzureVNet #AzureDataFactory #AzureMachineLearning</description>
+    </item>
+    
+    <item>
       <title>Machine Learning Engineer</title>
       <link>https://melio.ai/careers/machine-learning-engineer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -193,6 +225,50 @@ Backend experience preferrably with Python but Go and Java experience are fine. 
       <description>Melio is seeking a passionate Machine Learning Engineer to join our expanding team:
  Level: Junior or Intermediate Position: Full time Salary: Based on technical experience Location: South Africa (Remote)   As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.
 That being said, this specific role is for a team member to work in the Machine Learning AI team as a Machine Learning Engineer.</description>
+    </item>
+    
+    <item>
+      <title>Optimising debt collection efforts for over 1 million cases</title>
+      <link>https://melio.ai/use-cases/use-case-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/use-cases/use-case-4/</guid>
+      <description>Hello   with the implementation of a cloud-based debt prioritisation solution  “ The solution helped us to work the right cases first and reduce the time taken to work a case by more than 50% ”   Head of Debtors Shared Services - Quote is paraphrased   Case Study  Industry
+ Health Care
+  Company Size
+ 10,001+ employees
+    Problem Space  Predictive Analytics</description>
+    </item>
+    
+    <item>
+      <title>Retail and business banking rolling forecast</title>
+      <link>https://melio.ai/use-cases/use-case-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/use-cases/use-case-2/</guid>
+      <description>Hello   for the budgeting process with what-if analysis scenario planning  “ What-if analysis lets my team help our business partners achieve their financial goals ”   Head of Retail Banking - Quote is paraphrased   Case Study  Industry
+ Banking
+  Company Size
+ 10,000+ employees
+    Problem Space  Predictive Analytics
+Insights Automation
+Data Science
+   Technology Used  #Python #ScikitLearn #SAP #streamlit</description>
+    </item>
+    
+    <item>
+      <title>Time savings for finance team on monthly financial reporting automation</title>
+      <link>https://melio.ai/use-cases/use-case-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/use-cases/use-case-3/</guid>
+      <description>Hello   with Microsoft AX Dynamics  “ The solution saves me a lot of time every month and we look forward to expand it to rest of the business ”   Finance Manager - Quote is paraphrased   Case Study  Industry
+ Manufacturing
+  Company Size
+ 501 - 1,000 employees
+    Problem Space  Digitisation
+AWS Automation
+Data Engineering</description>
     </item>
     
     <item>
@@ -205,7 +281,16 @@ That being said, this specific role is for a team member to work in the Machine 
     </item>
     
     <item>
-      <title></title>
+      <title>Meetups</title>
+      <link>https://melio.ai/events/meetups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/meetups/</guid>
+      <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ) Wed, 28 July, 6:00PM Transforming into a zero-bug super developer on Kubernetes  Online Webinar   DevSpace helps developers build applications that run on Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Our Methodology</title>
       <link>https://melio.ai/how/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -214,7 +299,7 @@ That being said, this specific role is for a team member to work in the Machine 
     </item>
     
     <item>
-      <title></title>
+      <title>Privacy</title>
       <link>https://melio.ai/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -223,21 +308,12 @@ That being said, this specific role is for a team member to work in the Machine 
     </item>
     
     <item>
-      <title></title>
-      <link>https://melio.ai/use-cases/</link>
+      <title>Use Cases</title>
+      <link>https://melio.ai/use-cases-html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://melio.ai/use-cases/</guid>
+      <guid>https://melio.ai/use-cases-html/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Meetups</title>
-      <link>https://melio.ai/events/meetups/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/events/meetups/</guid>
-      <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ) Wed, 28 July, 6:00PM Transforming into a zero-bug super developer on Kubernetes  Online Webinar   DevSpace helps developers build applications that run on Kubernetes.</description>
     </item>
     
   </channel>
