@@ -151,7 +151,7 @@ ul.social-icons li {
 	$Banner
 ========================================================================== */
 .banner {
-  background-image: url(../images/banner_small.png);
+  background-image: url(../images/banner_small.webp);
   background-position: center top;
   background-repeat: no-repeat;
   -moz-background-size: cover;
