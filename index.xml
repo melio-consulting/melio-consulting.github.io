@@ -64,6 +64,17 @@ This workshop is only relevant to attendees that have Kubernetes currently deplo
     </item>
     
     <item>
+      <title>CNCJ - May, 2022</title>
+      <link>https://melio.ai/events/resources/2022-05-25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2022-05-25/</guid>
+      <description>External Secrets Operator: A Cloud Native way to manage your secrets Summary For our May meetup, we invited Charl Klein to come talk to us about External Secrets Operator, a Kubernetes operator that integrates external secrets management systems with Kubernetes Secrets.
+Managing secrets in Kubernetes can be a cumbersome job. How do you store and rotate your credentials currently in your project?
+With External Secrets Operator (ESO for short) we leverage multi-featured solutions like AWS Secret Manager, Azure Key Vault and Hashicorp Vault to manage your sensitive data declaratively and securely.</description>
+    </item>
+    
+    <item>
       <title>CNCJ - July, 2021</title>
       <link>https://melio.ai/events/resources/2021-07-28/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
