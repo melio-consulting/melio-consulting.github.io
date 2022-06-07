@@ -16,7 +16,7 @@
       <description>A hands-on workshop to the world&amp;rsquo;s most popular containerisation technology!
 Attendees will learn about the fundamental building block that enables technologies such as Kubernetes. The hands-on portion of this workshop emphasises on how Docker can enhance software development workflows.
 This workshop is best suited for attendees that have no experience with Docker but are familiar with software development (no pre-requisites on any specific programming language).
- Agenda This workshop introduces attendees to the basics of using Docker from the developer&amp;rsquo;s and operation&amp;rsquo;s perspective and consists of two segments: theory and hands-on.</description>
+Agenda This workshop introduces attendees to the basics of using Docker from the developer&amp;rsquo;s and operation&amp;rsquo;s perspective and consists of two segments: theory and hands-on.</description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@ This workshop is best suited for attendees that have no experience with Docker b
       <description>Introduction to Kubernetes basics including theory and a hands-on playground.
 This workshop is best suited for attendees that have no experience with Kubernetes and would like some hands-on experience with a real Kubernetes cluster.
 This workshop is structured for attendees who has no experience with Kubernetes. Some experience with containerisation technology is recommended. Ideally, the attendees should have completed Docker: Introdocktion.
- Agenda This workshop introduces attendees to the Kubernetes basics from a software development perspective.</description>
+Agenda This workshop introduces attendees to the Kubernetes basics from a software development perspective.</description>
     </item>
     
     <item>
@@ -60,7 +60,7 @@ This workshop aims to showcase the usage of a Kubernetes cluster in a realistic 
       <guid>https://melio.ai/training/kubernetes/advanced/</guid>
       <description>This workshop is geared towards teams that have implemented Kubernetes within their organisations and would like to further their Kubernetes journey by learning about the best practices around configuring a production-ready, enterprise-level Kubernetes cluster.
 This workshop is only relevant to attendees that have Kubernetes currently deployed either in a development or production environment.
- Agenda This workshop is tailored to the attendees&amp;rsquo; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
+Agenda This workshop is tailored to the attendees&amp;rsquo; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
     </item>
     
     <item>
@@ -93,7 +93,7 @@ DevSpace lets you start the entire deployment workflow with a single command.</d
       <guid>https://melio.ai/events/resources/2021-04-14/</guid>
       <description>How to think Cloud Native for your next Data project? Summary We invited cloud-native specialist Harry Lee and data specialist Archana Arakkal to chat about how the two ecosystems are growing to serve the community. And how you, as a practitioner, can start thinking cloud-native to improve your efficiency!
 Here&amp;rsquo;s is the timestamped breakdown of the items discussed:
- 5:10: What are some examples of data projects in public, hybrid and multi-cloud environments?</description>
+5:10: What are some examples of data projects in public, hybrid and multi-cloud environments?</description>
     </item>
     
     <item>
@@ -104,7 +104,7 @@ Here&amp;rsquo;s is the timestamped breakdown of the items discussed:
       <guid>https://melio.ai/events/resources/2020-11-25/</guid>
       <description>If it ain&amp;rsquo;t broke, rewrite it! - Inject innovation in restrictive environments Summary How do you rewrite code while keeping the business running? Jose Pita has taken us through his team&amp;rsquo;s cloud native journey and shared his team&amp;rsquo;s experiences in overcoming technical as well as business challenges.
 In this session, Jose covered:
-  Standard Bank Alchemy team&amp;rsquo;s cloud native journey  How to build trust and speak to business  How to nurture a long lasting team culture  How to build a team and not a product  Session Recording   References  Slides (PPT)  </description>
+Standard Bank Alchemy team&amp;rsquo;s cloud native journey How to build trust and speak to business How to nurture a long lasting team culture How to build a team and not a product Session Recording References Slides (PPT) </description>
     </item>
     
     <item>
@@ -126,7 +126,7 @@ In this session, Julian covered:</description>
       <guid>https://melio.ai/events/resources/2020-07-29/</guid>
       <description>Multi-cluster Kubernetes, the easy way [with Rancher] Summary We had the pleasure of hosting Tom Otomanski at our July CNCJ meetup last week. Tom showcased how Rancher enables effortless management of multiple Kubernetes clusters through a single interface.
 In this session, Tom covered:
-  Creating a Kubernetes cluster on AWS through Rancher  Managing Kubernetes cluster with common operations through Rancher  Showcased all Kubernetes configurations in the Rancher GUI  Session Recording   References  Slides (PDF) Rancher Server Documentation Rancher Blog Kubernetes Master Class Rancher Academy Rancher Labs YouTube Rancher Users Slack  </description>
+Creating a Kubernetes cluster on AWS through Rancher Managing Kubernetes cluster with common operations through Rancher Showcased all Kubernetes configurations in the Rancher GUI Session Recording References Slides (PDF) Rancher Server Documentation Rancher Blog Kubernetes Master Class Rancher Academy Rancher Labs YouTube Rancher Users Slack </description>
     </item>
     
     <item>
@@ -136,7 +136,7 @@ In this session, Tom covered:
       
       <guid>https://melio.ai/events/resources/2020-06-29/</guid>
       <description>[Kubernetes] A demo of Rancher&amp;rsquo;s RKE Summary Bradley Cloete gave us a glimpse into the power and simplicity of Rancher&amp;rsquo;s RKE. RKE&amp;rsquo;s easy Kubernetes life cycle management is a breeze for novice and experts alike. Bradley showed us how Kubernetes&amp;rsquo; day 2 operations (cluster backup/restore/scale) can be straightforward with RKE.
-Session Recording   References  Rancher Academy: Certified Rancher Operator: Level 1  </description>
+Session Recording References Rancher Academy: Certified Rancher Operator: Level 1 </description>
     </item>
     
     <item>
@@ -146,7 +146,8 @@ Session Recording   References  Rancher Academy: Certified Rancher Operator: Lev
       
       <guid>https://melio.ai/events/resources/2020-05-26/</guid>
       <description>[Kubernetes] Embracing Failure: Lessons learned from 50 post-mortems Summary In this session, Moshe&amp;rsquo;s covered his anecdotal lessons learned on deploying Kubernetes:
- ⛔ Some of the most common failure modes of Kubernetes clusters ⭐ Best practices you can apply to mitigate these failure modes 👨‍💻 A live demo simulating failure and then applying policies to prevent it  Session Recording   Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems</description>
+⛔ Some of the most common failure modes of Kubernetes clusters ⭐ Best practices you can apply to mitigate these failure modes 👨‍💻 A live demo simulating failure and then applying policies to prevent it Session Recording Slides Google Docs: Embracing failure - Lessons learned from 50 post-mortems
+References PDF: How Complex Systems Fail Kubernetes Failure Stories Open Policy Agent Node Local DNS Resilience Engineering Papers Blog: Kitchen Soap Github: Cluster API SIG Github: Bloomberg Goldpinger Github: Tmobile Magtape Youtube: Resilience in Complex Adaptive Systems Youtube: Resilience Engineering Playlist Youtube: The Gotchas of Zero-Downtime Traffic /w Kubernetes </description>
     </item>
     
     <item>
@@ -157,7 +158,7 @@ Session Recording   References  Rancher Academy: Certified Rancher Operator: Lev
       <guid>https://melio.ai/events/resources/2020-02-13/</guid>
       <description>Webinar - Kubernetes Fundamentals Summary We enjoyed how Roger simplifies the complex jargons and concepts into simple analogies. The demo on local deployment of a Kubernetes cluster was easy-to-follow and comprehensive.
 Here is a summary on one of the Q&amp;amp;A&amp;rsquo;s:
- ❓ What is the landscape of Kubernetes in South Africa enterprise? Are they using it in production or are still hesitant? 💬 Enterprise are paying a conscious effort in developing the competency in cloud-native technologies.</description>
+❓ What is the landscape of Kubernetes in South Africa enterprise? Are they using it in production or are still hesitant? 💬 Enterprise are paying a conscious effort in developing the competency in cloud-native technologies.</description>
     </item>
     
     <item>
@@ -167,7 +168,7 @@ Here is a summary on one of the Q&amp;amp;A&amp;rsquo;s:
       
       <guid>https://melio.ai/careers/data-scientist/</guid>
       <description>Melio is seeking a passionate Data Scientist to join our expanding team:
- Level: Junior or Intermediate Position: Full time Salary: Based on technical experience Location: South Africa (Remote)   As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.
+Level: Junior or Intermediate Position: Full time Salary: Based on technical experience Location: South Africa (Remote) As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.
 That being said, this specific role is for a team member to work in the Machine Learning AI team as a Data Scientit.</description>
     </item>
     
@@ -178,9 +179,9 @@ That being said, this specific role is for a team member to work in the Machine 
       
       <guid>https://melio.ai/careers/dev-ops-engineer/</guid>
       <description>Melio is seeking a passionate DevOps Engineer to join our expanding team:
- Level: Intermediate Position: Full time Salary: Negotiable based on technical experience Location: South Africa (Remote)  Minimum 1 year of experience working with Kubernetes (essential)
+Level: Intermediate Position: Full time Salary: Negotiable based on technical experience Location: South Africa (Remote) Minimum 1 year of experience working with Kubernetes (essential)
 Have software (fullstack) development experience
- As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.</description>
+As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.</description>
     </item>
     
     <item>
@@ -190,9 +191,9 @@ Have software (fullstack) development experience
       
       <guid>https://melio.ai/careers/fullstack-engineer/</guid>
       <description>Melio is seeking a passionate Fullstack Engineer to join our expanding team:
- Level: Intermediate - Senior Position: Full time Salary: Negotiable based on technical experience Location: South Africa (Remote)  Minimum 2 years of experience working with as a fullstack engineer.
+Level: Intermediate - Senior Position: Full time Salary: Negotiable based on technical experience Location: South Africa (Remote) Minimum 2 years of experience working with as a fullstack engineer.
 Backend experience preferrably with Python but Go and Java experience are fine. Frontend with React / Vue JS.
- As a fast-paced start-up, our day-to-day is never the same.</description>
+As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.</description>
     </item>
     
     <item>
@@ -201,13 +202,19 @@ Backend experience preferrably with Python but Go and Java experience are fine. 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/use-cases/use-case-1/</guid>
-      <description>Hello   with the implementation of an end-to-end machine learning platform  “ Fluid has simplified out model building and deployment process, and allowed for integration across our various platforms ”   Rainer Schilder - Lead Data Scientist   Case Study  Industry
- Technology
-  Company Size
- 51 - 200 employees
-  Project
- Length 7 months
-  Team Size</description>
+      <description>&lt;!DOCTYPE html&gt; Hello with the implementation of an end-to-end machine learning platform “ Fluid has simplified out model building and deployment process, and allowed for integration across our various platforms ” Rainer Schilder - Lead Data Scientist Case Study Industry
+Technology
+Company Size
+51 - 200 employees
+Project
+Length 7 months
+Team Size
+3.2 FTE
+Problem Space Data Science
+AutoML MLOps
+Machine Learning
+Technology Used Python &amp;emsp; Kubernetes
+FastAPI &amp;emsp; Kubeflow KServe &amp;emsp; AWS</description>
     </item>
     
     <item>
@@ -216,15 +223,20 @@ Backend experience preferrably with Python but Go and Java experience are fine. 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/use-cases/use-case-5/</guid>
-      <description>Hello   with the implementation of an end-to-end machine learning platform  -- “ This is the beginning of how we will change the way we work with data ”   GM - Pharmacy   Case Study  Industry
- Health Care
-  Company Size
- 10,001+ employees
-    Problem Space  Predictive Analytics
+      <description>&lt;!DOCTYPE html&gt; Hello “ This is the beginning of how we will change the way we work with data ” GM - Pharmacy Case Study Industry
+Health Care
+Company Size
+10,001+ employees
+Problem Space Predictive Analytics
 Azure Insights
 Machine Learning
 Billing
-   Technology Used  Python</description>
+Technology Used Python
+AzureSQL
+AzureVNet
+AzureDataFactory
+AzureMachineLearning
+Business Context The ability to provide accurate invoicing for patient stays in hospital is a significant challenge for the healthcare industry. Inaccurate billing often results in unpaid claims from medical aids or patient dissatisfaction and a poor patient experience.</description>
     </item>
     
     <item>
@@ -234,7 +246,7 @@ Billing
       
       <guid>https://melio.ai/careers/machine-learning-engineer/</guid>
       <description>Melio is seeking a passionate Machine Learning Engineer to join our expanding team:
- Level: Junior or Intermediate Position: Full time Salary: Based on technical experience Location: South Africa (Remote)   As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.
+Level: Junior or Intermediate Position: Full time Salary: Based on technical experience Location: South Africa (Remote) As a fast-paced start-up, our day-to-day is never the same. We look for candidates who love to take up new challenges and have the flexibility to go above-and-beyond the call of duty.
 That being said, this specific role is for a team member to work in the Machine Learning AI team as a Machine Learning Engineer.</description>
     </item>
     
@@ -244,11 +256,16 @@ That being said, this specific role is for a team member to work in the Machine 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/use-cases/use-case-4/</guid>
-      <description>Hello   with the implementation of a cloud-based debt prioritisation solution  “ The solution helped us to work the right cases first and reduce the time taken to work a case by more than 50% ”   Head of Debtors Shared Services - Quote is paraphrased   Case Study  Industry
- Health Care
-  Company Size
- 10,001+ employees
-    Problem Space  Predictive Analytics</description>
+      <description>&lt;!DOCTYPE html&gt; Hello with the implementation of a cloud-based debt prioritisation solution “ The solution helped us to work the right cases first and reduce the time taken to work a case by more than 50% ” Head of Debtors Shared Services - Quote is paraphrased Case Study Industry
+Health Care
+Company Size
+10,001+ employees
+Problem Space Predictive Analytics
+Azure Insights
+Machine Learning
+Debt Collection
+Technology Used Python
+AzureSQL</description>
     </item>
     
     <item>
@@ -257,14 +274,18 @@ That being said, this specific role is for a team member to work in the Machine 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/use-cases/use-case-2/</guid>
-      <description>Hello   for the budgeting process with what-if analysis scenario planning  “ What-if analysis lets my team help our business partners achieve their financial goals ”   Head of Retail Banking - Quote is paraphrased   Case Study  Industry
- Banking
-  Company Size
- 10,000+ employees
-    Problem Space  Predictive Analytics
+      <description>&lt;!DOCTYPE html&gt; Hello for the budgeting process with what-if analysis scenario planning “ What-if analysis lets my team help our business partners achieve their financial goals ” Head of Retail Banking - Quote is paraphrased Case Study Industry
+Banking
+Company Size
+10,000+ employees
+Problem Space Predictive Analytics
 Insights Automation
 Data Science
-   Technology Used  Python</description>
+Technology Used Python
+ScikitLearn
+SAP
+streamlit
+Business Context The budgeting process in the retail and business banking is time consuming, inaccurate.</description>
     </item>
     
     <item>
@@ -273,13 +294,18 @@ Data Science
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/use-cases/use-case-3/</guid>
-      <description>Hello   with Microsoft AX Dynamics  “ The solution saves me a lot of time every month and we look forward to expand it to rest of the business ”   Finance Manager - Quote is paraphrased   Case Study  Industry
- Manufacturing
-  Company Size
- 501 - 1,000 employees
-    Problem Space  Digitisation
+      <description>&lt;!DOCTYPE html&gt; Hello with Microsoft AX Dynamics “ The solution saves me a lot of time every month and we look forward to expand it to rest of the business ” Finance Manager - Quote is paraphrased Case Study Industry
+Manufacturing
+Company Size
+501 - 1,000 employees
+Problem Space Digitisation
 AWS Automation
-Data Engineering</description>
+Data Engineering
+Technology Used Python &amp;emsp; FastAPI
+MicrosoftAXDynamics
+Docker &amp;emsp; VueJS
+S3 &amp;ensp; AWSLambda
+Business Context The medium-sized manufacturing company acquired multiple businesses around the world, which all have different ERP systems.</description>
     </item>
     
     <item>
@@ -288,7 +314,7 @@ Data Engineering</description>
       <pubDate>Mon, 08 Apr 2019 17:19:21 +0200</pubDate>
       
       <guid>https://melio.ai/training/pricing/</guid>
-      <description>.background { padding: 0 25px 25px; position: relative; width: 100%; } .background::after { content: &#39;&#39;; background: #f7964c; background: -moz-linear-gradient(top, #f7964c 0%, #e97d29 100%); background: -webkit-linear-gradient(top, #f7964c 0%,#e97d29 100%); background: linear-gradient(to bottom, #f7964c 0%,#e97d29 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=&#39;#f7964c&#39;, endColorstr=&#39;#e97d29&#39;,GradientType=0 ); height: 350px; left: 0; position: absolute; top: 0; width: 100%; z-index: 1; } @media (min-width: 1300px) { .background { padding: 0 0 25px; } } .container { margin: 0 auto; padding: 50px 0 0; max-width: 960px; width: 100%; } .</description>
+      <description> 1/2 Day 3 hours Introductory topics, presentations Consultation and exploratory work R 20 000 Contact Us Single 1 full day Single workshop Up to 10 attendees Training platform provided R 50 000 Contact Us Series 3 full days Entire workshop series (3 workshops) Up to 10 attendees Training platform provided R 150 000 Contact Us </description>
     </item>
     
     <item>
@@ -297,7 +323,7 @@ Data Engineering</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/meetups/</guid>
-      <description>.card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; margin: auto; width: 75%; } .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); } .container { padding: 10px; width: inherit; } .attend { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: #e97d29; text-align: center; cursor: pointer; font-size: 18px; margin: 10px 0px; }  Cloud Native Computing Johannesburg (CNCJ) Wed, 28 July, 6:00PM Transforming into a zero-bug super developer on Kubernetes  Online Webinar   DevSpace helps developers build applications that run on Kubernetes.</description>
+      <description>Cloud Native Computing Johannesburg (CNCJ) 2021 Transforming into a zero-bug super developer on Kubernetes Wed, 28 July, 6:00PM Online Webinar meetup event link How to think Cloud Native for your next Data project? Wed, 14 April, 6:00PM Online Fireside Chat meetup event link 2020 If it ain&#39;t broke, rewrite it! - Inject innovation in restrictive environments Wed, 25 November, 6:00PM Online Webinar meetup event link Using Google Anthos to unlock cloud-native hybridization awesomeness Wed, 23 September, 6:00PM Online Webinar meetup event link Multi-cluster Kubernetes, the easy way [with Rancher] Wed, 29 July, 6:00PM Online Webinar meetup event link [Kubernetes] A demo of Rancher&#39;s RKE Mon, 29 June, 6:00PM Online Webinar meetup event link [Kubernetes] Embracing Failure: Lessons learned from 50 post-mortems Tues, 26 May, 6:00PM Online Webinar meetup event link Webinar - Day 2 Operations: Kubernetes Management Thurs, 26 March, 6:00PM Online Webinar meetup event link Webinar - Kubernetes Fundamentals Thurs, 13 February, 6:00PM Online Webinar meetup event link 2019 Why should you consider Kubeflow if you are thinking machine learning?</description>
     </item>
     
     <item>

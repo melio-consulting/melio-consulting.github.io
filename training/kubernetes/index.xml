@@ -16,7 +16,7 @@
       <description>A hands-on workshop to the world&amp;rsquo;s most popular containerisation technology!
 Attendees will learn about the fundamental building block that enables technologies such as Kubernetes. The hands-on portion of this workshop emphasises on how Docker can enhance software development workflows.
 This workshop is best suited for attendees that have no experience with Docker but are familiar with software development (no pre-requisites on any specific programming language).
- Agenda This workshop introduces attendees to the basics of using Docker from the developer&amp;rsquo;s and operation&amp;rsquo;s perspective and consists of two segments: theory and hands-on.</description>
+Agenda This workshop introduces attendees to the basics of using Docker from the developer&amp;rsquo;s and operation&amp;rsquo;s perspective and consists of two segments: theory and hands-on.</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ This workshop is best suited for attendees that have no experience with Docker b
       <description>Introduction to Kubernetes basics including theory and a hands-on playground.
 This workshop is best suited for attendees that have no experience with Kubernetes and would like some hands-on experience with a real Kubernetes cluster.
 This workshop is structured for attendees who has no experience with Kubernetes. Some experience with containerisation technology is recommended. Ideally, the attendees should have completed Docker: Introdocktion.
- Agenda This workshop introduces attendees to the Kubernetes basics from a software development perspective.</description>
+Agenda This workshop introduces attendees to the Kubernetes basics from a software development perspective.</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@ This workshop aims to showcase the usage of a Kubernetes cluster in a realistic 
       <guid>https://melio.ai/training/kubernetes/advanced/</guid>
       <description>This workshop is geared towards teams that have implemented Kubernetes within their organisations and would like to further their Kubernetes journey by learning about the best practices around configuring a production-ready, enterprise-level Kubernetes cluster.
 This workshop is only relevant to attendees that have Kubernetes currently deployed either in a development or production environment.
- Agenda This workshop is tailored to the attendees&amp;rsquo; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
+Agenda This workshop is tailored to the attendees&amp;rsquo; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
     </item>
     
   </channel>
