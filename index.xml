@@ -6,7 +6,7 @@
     <description>Recent content on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2019 13:00:34 +0200</lastBuildDate><atom:link href="https://melio.ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://melio.ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker: Introdocktion</title>
       <link>https://melio.ai/training/kubernetes/docker/</link>
@@ -61,6 +61,29 @@ This workshop aims to showcase the usage of a Kubernetes cluster in a realistic 
       <description>This workshop is geared towards teams that have implemented Kubernetes within their organisations and would like to further their Kubernetes journey by learning about the best practices around configuring a production-ready, enterprise-level Kubernetes cluster.
 This workshop is only relevant to attendees that have Kubernetes currently deployed either in a development or production environment.
 Agenda This workshop is tailored to the attendees&amp;rsquo; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
+    </item>
+    
+    <item>
+      <title>Version Control with Git and GitHub</title>
+      <link>https://melio.ai/training/software_engineering/git_and_github/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://melio.ai/training/software_engineering/git_and_github/</guid>
+      <description>Developing software in a team without some form of version control is chaotic, confusing, and leads to inevitable human mistakes.
+This workshop is geared towards software engineering and data engineering teams who have the need to work collaboratively on code projects and wish to use industry best-practices around code versioning and source control.
+Although GitHub is used by default in this workshop, this can be changed to any major provider as required.</description>
+    </item>
+    
+    <item>
+      <title>Test-Driven Development</title>
+      <link>https://melio.ai/training/software_engineering/test_driven_development/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://melio.ai/training/software_engineering/test_driven_development/</guid>
+      <description>When developing software solutions, automated tests are the only thing standing between a robust, reliable solution, and a brittle and frustrating experience for end-users.
+This workshop focusses on the theory and practice of automated software testing and Test-Driven Development (TDD).
+The workshop will use Python to illustrate the process of test-driven development, but this may be changed as required.
+Agenda An industry expert will show (through a live-coding session) the process and benefits of both testing and TDD.</description>
     </item>
     
     <item>
@@ -332,6 +355,15 @@ Business Context The medium-sized manufacturing company acquired multiple busine
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/how/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://melio.ai/our-team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/our-team/</guid>
       <description></description>
     </item>
     
