@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://melio.ai/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meetups</title>
+      <title>Meetups and Events</title>
       <link>https://melio.ai/events/meetups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://melio.ai/events/meetups/</guid>
-      <description>Cloud Native Computing Johannesburg (CNCJ) 2021 Transforming into a zero-bug super developer on Kubernetes Wed, 28 July, 6:00PM Online Webinar meetup event link How to think Cloud Native for your next Data project? Wed, 14 April, 6:00PM Online Fireside Chat meetup event link 2020 If it ain&#39;t broke, rewrite it! - Inject innovation in restrictive environments Wed, 25 November, 6:00PM Online Webinar meetup event link Using Google Anthos to unlock cloud-native hybridization awesomeness Wed, 23 September, 6:00PM Online Webinar meetup event link Multi-cluster Kubernetes, the easy way [with Rancher] Wed, 29 July, 6:00PM Online Webinar meetup event link [Kubernetes] A demo of Rancher&#39;s RKE Mon, 29 June, 6:00PM Online Webinar meetup event link [Kubernetes] Embracing Failure: Lessons learned from 50 post-mortems Tues, 26 May, 6:00PM Online Webinar meetup event link Webinar - Day 2 Operations: Kubernetes Management Thurs, 26 March, 6:00PM Online Webinar meetup event link Webinar - Kubernetes Fundamentals Thurs, 13 February, 6:00PM Online Webinar meetup event link 2019 Why should you consider Kubeflow if you are thinking machine learning?</description>
+      <description>Cloud Native Computing Johannesburg (CNCJ) 2022 Scaling Kubernetes with Karpenter: Advanced Scheduling with Pod Affinity Thu, 25 August, 6:00PM Online Webinar CNCF event link Cloud-native machine learning: Kubeflow success stories Wed, 29 June, 6:00PM Online Panel Discussion meetup event link External Secrets Operator: A Cloud Native way to manage your secrets Wed, 25 May, 6:00PM Online Webinar CNCF event link 2021 Transforming into a zero-bug super developer on Kubernetes Wed, 28 July, 6:00PM Online Webinar meetup event link How to think Cloud Native for your next Data project?</description>
     </item>
     
   </channel>
