@@ -87,6 +87,26 @@ Agenda An industry expert will show (through a live-coding session) the process 
     </item>
     
     <item>
+      <title>CNCJ - August, 2022</title>
+      <link>https://melio.ai/events/resources/2022-08-25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2022-08-25/</guid>
+      <description>Scaling Kubernetes with Karpenter: Advanced Scheduling with Pod Affinity Summary For our August meetup, we invited Lukonde Mwila to come talk to us about Scaling Kubernetes with Karpenter: Advanced Scheduling with Pod Affinity &amp;amp; Volume Topology Awareness.
+One feature that draws people to Kubernetes is its ability to scale automatically. Auto-scaling Kubernetes is an essential part of your cloud-native strategy. In addition, you may be dealing with use cases requiring advanced Kubernetes scheduling requirements like pod affinity, pod anti-affinity, and volume topology awareness.</description>
+    </item>
+    
+    <item>
+      <title>CNCJ - June, 2022</title>
+      <link>https://melio.ai/events/resources/2022-06-29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2022-06-29/</guid>
+      <description>Cloud-native machine learning: Kubeflow success stories Summary For our June meet-up, we have scheduled a panel discussion to talk about Kubeflow: The Machine Learning Toolkit for Kubernetes. We invited cloud-native specialist Harry Lee, machine learning manager Axel Tidemann and techie-turned-CEO Marko Salic to chat about their Kubeflow success story.
+Gartner estimated that 85% of companies manage their hybrid and multi-cloud ML environments with cloud-native technologies (Kubernetes). Cloud-native is the de facto for AI-native companies, but it can be difficult to select the best-of-breed tools for your organisation.</description>
+    </item>
+    
+    <item>
       <title>CNCJ - May, 2022</title>
       <link>https://melio.ai/events/resources/2022-05-25/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
