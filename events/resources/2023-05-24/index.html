@@ -7,21 +7,21 @@
     <meta name="description" content="">
 
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://melio.ai/events/resources/2020-06-29/">
+<meta property="og:url" content="https://melio.ai/events/resources/2023-05-24/">
 <meta property="og:title" content="Melio Consulting - Imagine AI">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://melio.ai/events/resources/2020-06-29-cover.png">
+<meta property="og:image" content="https://melio.ai/events/resources/2023-05-24-cover.png">
 
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://melio.ai/events/resources/2020-06-29/">
+<meta property="twitter:url" content="https://melio.ai/events/resources/2023-05-24/">
 <meta property="twitter:title" content="Melio Consulting - Imagine AI">
 <meta property="twitter:description" content="">
-<meta property="twitter:image" content="https://melio.ai/events/resources/2020-06-29-cover.png">
+<meta property="twitter:image" content="https://melio.ai/events/resources/2023-05-24-cover.png">
 <meta name="author" content="Melio Consulting">
 
     <link rel="icon" href="/images/favicon.png" type="image/png">
 
-    <title>CNCJ - June, 2020 :: Melio Consulting</title>
+    <title>CNCJ - May, 2023 :: Melio Consulting</title>
 
     
     <link href="/css/nucleus.css?1685979621" rel="stylesheet">
@@ -61,7 +61,7 @@
 <script src="/js/retina.min.js"></script>
 
   </head>
-  <body class="" data-url="/events/resources/2020-06-29/">
+  <body class="" data-url="/events/resources/2023-05-24/">
     <nav id="sidebar" class="">
 
 
@@ -596,7 +596,7 @@
  
   
     
-      <li data-nav-id="/events/resources/2023-05-24/" title="CNCJ - May, 2023" class="dd-item ">
+      <li data-nav-id="/events/resources/2023-05-24/" title="CNCJ - May, 2023" class="dd-item active">
         <a href="/events/resources/2023-05-24/">
         CNCJ - May, 2023
         
@@ -785,7 +785,7 @@
  
   
     
-      <li data-nav-id="/events/resources/2020-06-29/" title="CNCJ - June, 2020" class="dd-item active">
+      <li data-nav-id="/events/resources/2020-06-29/" title="CNCJ - June, 2020" class="dd-item ">
         <a href="/events/resources/2020-06-29/">
         CNCJ - June, 2020
         
@@ -1136,7 +1136,7 @@
             
           
           
-            <a href='/'>Melio Consulting</a> > <a href='/events/'>Events</a> > <a href='/events/resources/'>Resources</a> > CNCJ - June, 2020
+            <a href='/'>Melio Consulting</a> > <a href='/events/'>Events</a> > <a href='/events/resources/'>Resources</a> > CNCJ - May, 2023
           
         
           
@@ -1155,7 +1155,7 @@
   <ul>
     <li>
       <ul>
-        <li><a href="#kubernetes-a-demo-of-ranchers-rke">[Kubernetes] A demo of Rancher&rsquo;s RKE</a></li>
+        <li><a href="#synthetic-testing-with-canary-checker">Synthetic Testing with Canary Checker</a></li>
       </ul>
     </li>
   </ul>
@@ -1175,28 +1175,38 @@
           
             <h1>
               
-              CNCJ - June, 2020
+              CNCJ - May, 2023
             </h1>
           
 
         
 
 
-<h3 id="kubernetes-a-demo-of-ranchers-rke">[Kubernetes] A demo of Rancher&rsquo;s RKE</h3>
+<h3 id="synthetic-testing-with-canary-checker">Synthetic Testing with Canary Checker</h3>
 <h4 id="summary">Summary</h4>
-<p>Bradley Cloete gave us a glimpse into the power and simplicity of Rancher&rsquo;s RKE.
-RKE&rsquo;s easy Kubernetes life cycle management is a breeze for novice and experts alike.
-Bradley showed us how Kubernetes&rsquo; day 2 operations (cluster backup/restore/scale) can be straightforward with RKE.</p>
+<p>Canary Checker <a href="https://github.com/flanksource/canary-checker">https://github.com/flanksource/canary-checker</a> is an open-source, Kubernetes native health check framework that supports 3 different types of checks:</p>
+<p>Active Application health checks involve sending periodic requests to the service or application and checking the response to ensure that it is working correctly, Active health checks are proactive and can detect issues quickly, but they can also introduce some load on the system being monitored.
+Active Infrastructure health checks are similar to application health checks, but instead of sending a request to the application it sends a request to the infrastructure to deploy a new application or infrastructure component e.g. a new Kubernetes pod or EC2 instance.
+Passive health checks rely on monitoring the activity in the system, analyzing it, and detecting anomalies or errors. Passive health checks are less intrusive than active health checks, but they may not detect issues as quickly.
+Canary Checker supports many different protocols including:</p>
+<ul>
+<li>Network (HTTP, ICMP, DNS, TCP)</li>
+<li>Data Sources (SQL, Mongo, Redis, Elasticsearch)</li>
+<li>Alerts (Prometheus, AWS Cloudwatch)</li>
+<li>Infrastructure (EC2, Kubernetes, Helm, Docker)</li>
+<li>File Systems ( Local, Git, SMB/CIFS, SFTP, S3, GCS)</li>
+<li>Integration (Junit, JMeter)</li>
+<li>DevOps (Github, Azure Devops)</li>
+</ul>
+<p>[Technicality rating: 3/4] (Familiarity with GitOps, Helm, and Grafana/Prometheus would be beneficial)</p>
+<p><i class="fa fa-calendar"></i> CNCF Event link: <a href="https://community.cncf.io/events/details/cncf-johannesburg-presents-synthetic-testing-with-canary-checker/">Synthetic Testing with Canary Checker</a></p>
+<p><i class="fa fa-calendar"></i> Meetup Event link: <a href="https://www.meetup.com/cloud-native-computing-johannesburg/events/293420589/">Synthetic Testing with Canary Checker</a></p>
 <h4 id="session-recording">Session Recording</h4>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/5aZB_EF6v_s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/__uxYDV-mV8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<h4 id="references">References</h4>
-<ul>
-<li><a href="https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about">Rancher Academy: Certified Rancher Operator: Level 1</a></li>
-</ul>
 
 
 <footer class="footline">
@@ -1560,6 +1570,23 @@ Bradley showed us how Kubernetes&rsquo; day 2 operations (cluster backup/restore
             
                 
                     
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
                         
                         
                     
@@ -1706,26 +1733,6 @@ Bradley showed us how Kubernetes&rsquo; day 2 operations (cluster backup/restore
             
             
                 
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
                     
                 
                 

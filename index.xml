@@ -87,6 +87,16 @@ Agenda An industry expert will show (through a live-coding session) the process 
     </item>
     
     <item>
+      <title>CNCJ - May, 2023</title>
+      <link>https://melio.ai/events/resources/2023-05-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2023-05-24/</guid>
+      <description>Synthetic Testing with Canary Checker Summary Canary Checker https://github.com/flanksource/canary-checker is an open-source, Kubernetes native health check framework that supports 3 different types of checks:
+Active Application health checks involve sending periodic requests to the service or application and checking the response to ensure that it is working correctly, Active health checks are proactive and can detect issues quickly, but they can also introduce some load on the system being monitored. Active Infrastructure health checks are similar to application health checks, but instead of sending a request to the application it sends a request to the infrastructure to deploy a new application or infrastructure component e.</description>
+    </item>
+    
+    <item>
       <title>CNCJ - August, 2022</title>
       <link>https://melio.ai/events/resources/2022-08-25/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -240,6 +250,28 @@ As a fast-paced start-up, our day-to-day is never the same. We look for candidat
     </item>
     
     <item>
+      <title>Helping clients adopt AWS best practices in cloud architecture and design</title>
+      <link>https://melio.ai/success-stories/use-case-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/success-stories/use-case-6/</guid>
+      <description>&lt;!DOCTYPE html&gt; Hello “The Melio team helped us to identify not only solution-specific recommendations to our architecture but also broader bank-wide improvements.” Head of Data Science - Large Bank Case Study Industry
+Financial Services
+Company Size
+2,000+ employees
+Problem Space AWS Best Practice
+Cloud Architecture
+Cost Optimisation Data-Intensive Solutions
+Deployment
+Technology Used AWS CloudFormation
+AWS Fargate
+AWS EventBridge
+Gitlab + CI/CD
+Python
+Business Context A prominent South African retail bank sought our expertise to unlock the full potential of the AWS cloud, aiming to harness its efficiencies and advantages.</description>
+    </item>
+    
+    <item>
       <title>Improving data scientist productivity by 80%</title>
       <link>https://melio.ai/success-stories/use-case-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -380,6 +412,15 @@ Business Context The hiring process is a time-consuming process that often canno
       
       <guid>https://melio.ai/training/pricing/</guid>
       <description> 1/2 Day 3 hours Introductory topics, presentations Consultation and exploratory work R 20 000 Contact Us Single 1 full day Single workshop Up to 10 attendees Training platform provided R 50 000 Contact Us Series 3 full days Entire workshop series (3 workshops) Up to 10 attendees Training platform provided R 150 000 Contact Us </description>
+    </item>
+    
+    <item>
+      <title>FLUID Maturity Assessments</title>
+      <link>https://melio.ai/fluid-maturity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/fluid-maturity/</guid>
+      <description></description>
     </item>
     
     <item>
