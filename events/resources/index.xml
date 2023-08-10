@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://melio.ai/events/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CNCJ - July, 2023</title>
+      <link>https://melio.ai/events/resources/2023-07-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/resources/2023-07-26/</guid>
+      <description>Optimizing Network Costs in Kubernetes Summary Nobody likes the idea of degraded performance or unscheduled downtime in their services. In many cases, the implications can be quite damaging, to say the least.
+In the context of Kubernetes, many would argue that it goes against &amp;ldquo;the promise&amp;rdquo; that it&amp;rsquo;s meant to provide a container orchestration solution. That&amp;rsquo;s why teams build fault tolerance and resilience mechanisms to mitigate the risks of such issues in their environments.</description>
+    </item>
+    
+    <item>
       <title>CNCJ - May, 2023</title>
       <link>https://melio.ai/events/resources/2023-05-24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
