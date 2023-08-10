@@ -7,6 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://melio.ai/success-stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Helping a startup build a data strategy and architecture roadmap in AWS</title>
+      <link>https://melio.ai/success-stories/use-case-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/success-stories/use-case-7/</guid>
+      <description>&lt;!DOCTYPE html&gt; Hello “The sessions felt like a lighthouse, shining a significant light on our roadmap and our future. We enjoyed the business &amp; product focus.” Co-founder - Digital Service Marketplace Case Study Industry
+Technology
+Company Size
+&lt; 10 employees
+Problem Space Data Strategy
+Cloud Architecture
+Data Platform Data-Intensive Solutions
+Startups
+Technology Used AWS Glue
+AWS SageMaker
+AWS Lake Formation
+AWS Redshift
+AWS S3
+Business Context A seed-funded startup within South Africa was looking to scale their business.</description>
+    </item>
+    
+    <item>
       <title>Helping clients adopt AWS best practices in cloud architecture and design</title>
       <link>https://melio.ai/success-stories/use-case-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
