@@ -7,71 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://melio.ai/success-stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Designing and Implementing an Automated Solution for Regulatory Compliance</title>
-      <link>https://melio.ai/success-stories/use-case-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/success-stories/use-case-8/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hello “Melio is the shining example to the rest of the data team.” Chief Data Officer - Middle East Digital Bank Case Study Industry
-Banking
-Company Size
-201-500 employees Problem Space Insights
-Automation
-Data Engineering Software Engineering
-Regulatory Compliance
-Technology Used Python
-Apache Airflow
-PostgreSQL
-Kubernetes
-Flyway
-Business Context An emerging new digital bank in the Middle East enlisted Melio to help engineer an automated pipeline for their regulatory compliance needs.</description>
-    </item>
-    
-    <item>
-      <title>Helping a startup build a data strategy and architecture roadmap in AWS</title>
-      <link>https://melio.ai/success-stories/use-case-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/success-stories/use-case-7/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hello “The sessions felt like a lighthouse, shining a significant light on our roadmap and our future. We enjoyed the business &amp; product focus.” Co-founder - Digital Service Marketplace Case Study Industry
-Technology
-Company Size
-&lt; 10 employees
-Problem Space Data Strategy
-Cloud Architecture
-Data Platform Data-Intensive Solutions
-Startups
-Technology Used AWS Glue
-AWS SageMaker
-AWS Lake Formation
-AWS Redshift
-AWS S3
-Business Context A seed-funded startup within South Africa was looking to scale their business.</description>
-    </item>
-    
-    <item>
-      <title>Helping clients adopt AWS best practices in cloud architecture and design</title>
-      <link>https://melio.ai/success-stories/use-case-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/success-stories/use-case-6/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hello “The Melio team helped us to identify not only solution-specific recommendations to our architecture but also broader bank-wide improvements.” Head of Data Science - Large Bank Case Study Industry
-Financial Services
-Company Size
-2,000+ employees
-Problem Space AWS Best Practice
-Cloud Architecture
-Cost Optimisation Data-Intensive Solutions
-Deployment
-Technology Used AWS CloudFormation
-AWS Fargate
-AWS EventBridge
-Gitlab + CI/CD
-Python
-Business Context A prominent South African retail bank sought our expertise to unlock the full potential of the AWS cloud, aiming to harness its efficiencies and advantages.</description>
-    </item>
-    
-    <item>
       <title>Improving data scientist productivity by 80%</title>
       <link>https://melio.ai/success-stories/use-case-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -90,46 +25,6 @@ AutoML MLOps
 Machine Learning
 Technology Used Python &amp;emsp; Kubernetes
 FastAPI &amp;emsp; Kubeflow KServe &amp;emsp; AWS</description>
-    </item>
-    
-    <item>
-      <title>Leveraging Azure Machine Learning to improve billing accuracy and consistency</title>
-      <link>https://melio.ai/success-stories/use-case-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/success-stories/use-case-5/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hello “ This is the beginning of how we will change the way we work with data ” GM - Pharmacy Case Study Industry
-Health Care
-Company Size
-10,001+ employees
-Problem Space Predictive Analytics
-Azure Insights
-Machine Learning
-Billing
-Technology Used Python
-AzureSQL
-AzureVNet
-AzureDataFactory
-AzureMachineLearning
-Business Context The ability to provide accurate invoicing for patient stays in hospital is a significant challenge for the healthcare industry. Inaccurate billing often results in unpaid claims from medical aids or patient dissatisfaction and a poor patient experience.</description>
-    </item>
-    
-    <item>
-      <title>Optimising debt collection efforts for over 1 million cases</title>
-      <link>https://melio.ai/success-stories/use-case-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://melio.ai/success-stories/use-case-4/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hello with the implementation of a cloud-based debt prioritisation solution “ The solution helped us to work the right cases first and reduce the time taken to work a case by more than 50% ” Head of Debtors Shared Services - Quote is paraphrased Case Study Industry
-Health Care
-Company Size
-10,001+ employees
-Problem Space Predictive Analytics
-Azure Insights
-Machine Learning
-Debt Collection
-Technology Used Python
-AzureSQL</description>
     </item>
     
     <item>
@@ -170,6 +65,153 @@ MicrosoftAXDynamics
 Docker &amp;emsp; VueJS
 S3 &amp;ensp; AWSLambda
 Business Context The medium-sized manufacturing company acquired multiple businesses around the world, which all have different ERP systems.</description>
+    </item>
+    
+    <item>
+      <title>Optimising debt collection efforts for over 1 million cases</title>
+      <link>https://melio.ai/success-stories/use-case-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/success-stories/use-case-4/</guid>
+      <description>&lt;!DOCTYPE html&gt; Hello with the implementation of a cloud-based debt prioritisation solution “ The solution helped us to work the right cases first and reduce the time taken to work a case by more than 50% ” Head of Debtors Shared Services - Quote is paraphrased Case Study Industry
+Health Care
+Company Size
+10,001+ employees
+Problem Space Predictive Analytics
+Azure Insights
+Machine Learning
+Debt Collection
+Technology Used Python
+AzureSQL</description>
+    </item>
+    
+    <item>
+      <title>Leveraging Azure Machine Learning to improve billing accuracy and consistency</title>
+      <link>https://melio.ai/success-stories/use-case-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/success-stories/use-case-5/</guid>
+      <description>&lt;!DOCTYPE html&gt; Hello “ This is the beginning of how we will change the way we work with data ” GM - Pharmacy Case Study Industry
+Health Care
+Company Size
+10,001+ employees
+Problem Space Predictive Analytics
+Azure Insights
+Machine Learning
+Billing
+Technology Used Python
+AzureSQL
+AzureVNet
+AzureDataFactory
+AzureMachineLearning
+Business Context The ability to provide accurate invoicing for patient stays in hospital is a significant challenge for the healthcare industry. Inaccurate billing often results in unpaid claims from medical aids or patient dissatisfaction and a poor patient experience.</description>
+    </item>
+    
+    <item>
+      <title>Helping clients adopt AWS best practices in cloud architecture and design</title>
+      <link>https://melio.ai/success-stories/use-case-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/success-stories/use-case-6/</guid>
+      <description>&lt;!DOCTYPE html&gt; Hello “The Melio team helped us to identify not only solution-specific recommendations to our architecture but also broader bank-wide improvements.” Head of Data Science - Large Bank Case Study Industry
+Financial Services
+Company Size
+2,000+ employees
+Problem Space AWS Best Practice
+Cloud Architecture
+Cost Optimisation Data-Intensive Solutions
+Deployment
+Technology Used AWS CloudFormation
+AWS Fargate
+AWS EventBridge
+Gitlab + CI/CD
+Python
+Business Context A prominent South African retail bank sought our expertise to unlock the full potential of the AWS cloud, aiming to harness its efficiencies and advantages.</description>
+    </item>
+    
+    <item>
+      <title>Helping a startup build a data strategy and architecture roadmap in AWS</title>
+      <link>https://melio.ai/success-stories/use-case-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/success-stories/use-case-7/</guid>
+      <description>&lt;!DOCTYPE html&gt; Hello “The sessions felt like a lighthouse, shining a significant light on our roadmap and our future. We enjoyed the business &amp; product focus.” Co-founder - Digital Service Marketplace Case Study Industry
+Technology
+Company Size
+&lt; 10 employees
+Problem Space Data Strategy
+Cloud Architecture
+Data Platform Data-Intensive Solutions
+Startups
+Technology Used AWS Glue
+AWS SageMaker
+AWS Lake Formation
+AWS Redshift
+AWS S3
+Business Context A seed-funded startup within South Africa was looking to scale their business.</description>
+    </item>
+    
+    <item>
+      <title>Designing and Implementing an Automated Solution for Regulatory Compliance</title>
+      <link>https://melio.ai/success-stories/use-case-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/success-stories/use-case-8/</guid>
+      <description>&lt;!DOCTYPE html&gt; Hello “Melio is the shining example to the rest of the data team.” Chief Data Officer - Middle East Digital Bank Case Study Industry
+Banking
+Company Size
+201-500 employees Problem Space Insights
+Automation
+Data Engineering Software Engineering
+Regulatory Compliance
+Technology Used Python
+Apache Airflow
+PostgreSQL
+Kubernetes
+Flyway
+Business Context An emerging new digital bank in the Middle East enlisted Melio to help engineer an automated pipeline for their regulatory compliance needs.</description>
+    </item>
+    
+    <item>
+      <title>Hyper-personalisation with an end-to-end machine learning platform</title>
+      <link>https://melio.ai/success-stories/use-case-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/success-stories/use-case-9/</guid>
+      <description>&lt;!DOCTYPE html&gt; Hello “The Melio team helped us to identify not only solution-specific recommendations to our architecture but also broader bank-wide improvements.” Head of Data Science - Large Bank Case Study Industry
+Banking
+Company Size
+3000+ employees Problem Space Marketing analytics
+Client value management
+Data-driven recommendations Machine learning
+Generative AI
+Technology Used AWS SageMaker
+AWS Bedrock
+AWS S3
+Gitlab
+Python
+Business Context A large bank within South Africa was looking to deliver hyper-personalised product and service recommendations for their retail clients.</description>
+    </item>
+    
+    <item>
+      <title>Holistic data quality solution to improve patient care</title>
+      <link>https://melio.ai/success-stories/use-case-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/success-stories/use-case-10/</guid>
+      <description>&lt;!DOCTYPE html&gt; Hello “This solution paves the way for a culture of enhanced data governance and quality management.” Executive: Analytics and Product Development - Large Hospital Group Case Study Industry
+Hospital Group
+Company Size
+5000+ employees Problem Space Data quality
+Data governance
+Data-driven insights Data engineering
+Data visualisation
+Technology Used Databricks
+Azure Purview
+Python
+Great Expectations
+Power BI
+Business Context The hospital group’s vision to be a market-leading healthcare provider and with the mission to improve the lives of people is achieved through delivering high-quality and cost-effective care.</description>
     </item>
     
   </channel>
