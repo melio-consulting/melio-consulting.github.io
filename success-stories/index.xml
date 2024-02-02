@@ -47,7 +47,7 @@
       <link>https://melio.ai/success-stories/use-case-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://melio.ai/success-stories/use-case-6/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hello “The Melio team helped us to identify not only solution-specific recommendations to our architecture but also broader bank-wide improvements.” Head of Data Science - Large Bank Case Study Industry&#xA;Financial Services&#xA;Company Size&#xA;2,000+ employees&#xA;Problem Space AWS Best Practice&#xA;Cloud Architecture&#xA;Cost Optimisation Data-Intensive Solutions&#xA;Deployment&#xA;Technology Used AWS CloudFormation&#xA;AWS Fargate&#xA;AWS EventBridge&#xA;Gitlab + CI/CD&#xA;Python&#xA;Business Context A prominent South African retail bank sought our expertise to unlock the full potential of the AWS cloud, aiming to harness its efficiencies and advantages.</description>
+      <description>&lt;!DOCTYPE html&gt; Hello Case Study Industry&#xA;Financial Services&#xA;Company Size&#xA;2,000+ employees&#xA;Problem Space AWS Best Practice&#xA;Cloud Architecture&#xA;Cost Optimisation Data-Intensive Solutions&#xA;Deployment&#xA;Technology Used AWS CloudFormation&#xA;AWS Fargate&#xA;AWS EventBridge&#xA;Gitlab + CI/CD&#xA;Python&#xA;Business Context A prominent South African retail bank sought our expertise to unlock the full potential of the AWS cloud, aiming to harness its efficiencies and advantages. As pioneers in their cloud journey, the bank faced the challenge of establishing comprehensive standards and best practices across their organization.</description>
     </item>
     <item>
       <title>Helping a startup build a data strategy and architecture roadmap in AWS</title>
@@ -64,18 +64,18 @@
       <description>&lt;!DOCTYPE html&gt; Hello “Melio is the shining example to the rest of the data team.” Chief Data Officer - Middle East Digital Bank Case Study Industry&#xA;Banking&#xA;Company Size&#xA;201-500 employees Problem Space Insights&#xA;Automation&#xA;Data Engineering Software Engineering&#xA;Regulatory Compliance&#xA;Technology Used Python&#xA;Apache Airflow&#xA;PostgreSQL&#xA;Kubernetes&#xA;Flyway&#xA;Business Context An emerging new digital bank in the Middle East enlisted Melio to help engineer an automated pipeline for their regulatory compliance needs.</description>
     </item>
     <item>
-      <title>Hyper-personalisation with an end-to-end machine learning platform</title>
-      <link>https://melio.ai/success-stories/use-case-9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://melio.ai/success-stories/use-case-9/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hello “The Melio team helped us to identify not only solution-specific recommendations to our architecture but also broader bank-wide improvements.” Head of Data Science - Large Bank Case Study Industry&#xA;Banking&#xA;Company Size&#xA;3000+ employees Problem Space Marketing analytics&#xA;Client value management&#xA;Data-driven recommendations Machine learning&#xA;Generative AI&#xA;Technology Used AWS SageMaker&#xA;AWS Bedrock&#xA;AWS S3&#xA;Gitlab&#xA;Python&#xA;Business Context A large bank within South Africa was looking to deliver hyper-personalised product and service recommendations for their retail clients.</description>
-    </item>
-    <item>
       <title>Holistic data quality solution to improve patient care</title>
       <link>https://melio.ai/success-stories/use-case-10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://melio.ai/success-stories/use-case-10/</guid>
       <description>&lt;!DOCTYPE html&gt; Hello “This solution paves the way for a culture of enhanced data governance and quality management.” Executive: Analytics and Product Development - Large Hospital Group Case Study Industry&#xA;Hospital Group&#xA;Company Size&#xA;5000+ employees Problem Space Data quality&#xA;Data governance&#xA;Data-driven insights Data engineering&#xA;Data visualisation&#xA;Technology Used Databricks&#xA;Azure Purview&#xA;Python&#xA;Great Expectations&#xA;Power BI&#xA;Business Context The hospital group’s vision to be a market-leading healthcare provider and with the mission to improve the lives of people is achieved through delivering high-quality and cost-effective care.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://melio.ai/success-stories/use-case-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://melio.ai/success-stories/use-case-9/</guid>
+      <description> </description>
     </item>
   </channel>
 </rss>
