@@ -5,14 +5,28 @@
     <link>https://melio.ai/events/</link>
     <description>Recent content in Events on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://melio.ai/events/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://melio.ai/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meetups and Events</title>
+      <title>CNCJ Meetups</title>
       <link>https://melio.ai/events/meetups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://melio.ai/events/meetups/</guid>
       <description>Cloud Native Computing Johannesburg (CNCJ) 2023 An Introduction to Kubeflow, the MLOps Platform on Kubernetes Fri, 29 September, 6:00PM Online Webinar CNCF event link Optimizing Network Costs in Kubernetes Wed, 26 July, 6:00PM Online Webinar CNCF event link Synthetic Testing with Canary Checker Thu, 25 May, 6:00PM Online Webinar CNCF event link 2022 Scaling Kubernetes with Karpenter: Advanced Scheduling with Pod Affinity Thu, 25 August, 6:00PM Online Webinar CNCF event link Cloud-native machine learning: Kubeflow success stories Wed, 29 June, 6:00PM Online Panel Discussion meetup event link External Secrets Operator: A Cloud Native way to manage your secrets Wed, 25 May, 6:00PM Online Webinar CNCF event link 2021 Transforming into a zero-bug super developer on Kubernetes Wed, 28 July, 6:00PM Online Webinar meetup event link How to think Cloud Native for your next Data project?</description>
     </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://melio.ai/events/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melio.ai/events/events/</guid>
+      <description>2024 Unlock the Power of Gen AI for Fintech with AWS 3 April 2024
+Host: AWS
+Webinar Recordings
+Over 70% of businesses see GenAI as a growth opportunity but view it as a confusing and risky gamble. We&amp;rsquo;ve spoken to numerous businesses and developers, and the sentiment is clear—it feels overwhelming. In this webinar, you will learn:
+Overview of AWS Services in Gen AI High Impact Gen AI Use Cases in FinTech Gen AI Use Case Considerations Transforming Businesses using AI 27 March 2024</description>
+    </item>
+    
   </channel>
 </rss>

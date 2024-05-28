@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Use-Cases on Melio Consulting</title>
+    <title>Use-cases on Melio Consulting</title>
     <link>https://melio.ai/use-cases/</link>
-    <description>Recent content in Use-Cases on Melio Consulting</description>
+    <description>Recent content in Use-cases on Melio Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://melio.ai/use-cases/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://melio.ai/use-cases/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using ChatGPT-like models in the talent hiring and screening</title>
       <link>https://melio.ai/use-cases/use-case-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://melio.ai/use-cases/use-case-1/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hello can drastically improve candidate screening turnaround times and improve quality of hires. Impacted Areas Industry&#xA;All industries&#xA;Company Size&#xA;Most large organisations&#xA;Time to Value&#xA;POC in 8-12 weeks&#xA;Problem Space Predictive analytics&#xA;Large Language Models Automation&#xA;Machine Learning&#xA;Technology Stack ChatGPT-like LLMs&#xA;Python&#xA;ScikitLearn&#xA;Kubernetes &amp; Kubeflow&#xA;Business Context The hiring process is a time-consuming process that often cannot guarantee effective results. This means that the ability of an organisation to provide the right skills for the job at hand is based on a series of often manually conducted steps driven by the organisation’s Human Resources (HR) department.</description>
+      <description>&lt;!DOCTYPE html&gt; Hello can drastically improve candidate screening turnaround times and improve quality of hires. Impacted Areas Industry
+All industries
+Company Size
+Most large organisations
+Time to Value
+POC in 8-12 weeks
+Problem Space Predictive analytics
+Large Language Models Automation
+Machine Learning
+Technology Stack ChatGPT-like LLMs
+Python
+ScikitLearn
+Kubernetes &amp; Kubeflow
+Business Context The hiring process is a time-consuming process that often cannot guarantee effective results. This means that the ability of an organisation to provide the right skills for the job at hand is based on a series of often manually conducted steps driven by the organisation’s Human Resources (HR) department.</description>
     </item>
+    
   </channel>
 </rss>
