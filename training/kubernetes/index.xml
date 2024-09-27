@@ -1,57 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kubernetes Workshop Series on Melio Consulting</title>
-    <link>https://melio.ai/training/kubernetes/</link>
-    <description>Recent content in Kubernetes Workshop Series on Melio Consulting</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Kubernetes Workshop Series :: Melio Consulting</title>
+    <link>https://melio.ai/training/kubernetes/index.html</link>
+    <description>A series of workshops during which novices can get up to speed with Kubernetes in under a week.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2019 22:09:34 +0200</lastBuildDate><atom:link href="https://melio.ai/training/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Apr 2019 14:26:38 +0200</lastBuildDate>
+    <atom:link href="https://melio.ai/training/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker: Introdocktion</title>
-      <link>https://melio.ai/training/kubernetes/docker/</link>
+      <link>https://melio.ai/training/kubernetes/docker/index.html</link>
       <pubDate>Fri, 05 Apr 2019 14:26:38 +0200</pubDate>
-      
-      <guid>https://melio.ai/training/kubernetes/docker/</guid>
-      <description>A hands-on workshop to the world&amp;rsquo;s most popular containerisation technology!
-Attendees will learn about the fundamental building block that enables technologies such as Kubernetes. The hands-on portion of this workshop emphasises on how Docker can enhance software development workflows.
-This workshop is best suited for attendees that have no experience with Docker but are familiar with software development (no pre-requisites on any specific programming language).
-Agenda This workshop introduces attendees to the basics of using Docker from the developer&amp;rsquo;s and operation&amp;rsquo;s perspective and consists of two segments: theory and hands-on.</description>
+      <guid>https://melio.ai/training/kubernetes/docker/index.html</guid>
+      <description>A hands-on workshop to the world’s most popular containerisation technology!&#xA;Attendees will learn about the fundamental building block that enables technologies such as Kubernetes. The hands-on portion of this workshop emphasises on how Docker can enhance software development workflows.&#xA;Note This workshop is best suited for attendees that have no experience with Docker but are familiar with software development (no pre-requisites on any specific programming language).</description>
     </item>
-    
     <item>
       <title>Kubernetes Workshop: Fundamental</title>
-      <link>https://melio.ai/training/kubernetes/fundamental/</link>
+      <link>https://melio.ai/training/kubernetes/fundamental/index.html</link>
       <pubDate>Thu, 04 Apr 2019 23:35:24 +0200</pubDate>
-      
-      <guid>https://melio.ai/training/kubernetes/fundamental/</guid>
-      <description>Introduction to Kubernetes basics including theory and a hands-on playground.
-This workshop is best suited for attendees that have no experience with Kubernetes and would like some hands-on experience with a real Kubernetes cluster.
-This workshop is structured for attendees who has no experience with Kubernetes. Some experience with containerisation technology is recommended. Ideally, the attendees should have completed Docker: Introdocktion.
-Agenda This workshop introduces attendees to the Kubernetes basics from a software development perspective.</description>
+      <guid>https://melio.ai/training/kubernetes/fundamental/index.html</guid>
+      <description>Introduction to Kubernetes basics including theory and a hands-on playground.&#xA;This workshop is best suited for attendees that have no experience with Kubernetes and would like some hands-on experience with a real Kubernetes cluster.&#xA;Note This workshop is structured for attendees who has no experience with Kubernetes. Some experience with containerisation technology is recommended. Ideally, the attendees should have completed Docker: Introdocktion.&#xA;Agenda This workshop introduces attendees to the Kubernetes basics from a software development perspective. This workshop aims to give attendees an all-rounded experience working with Kubernetes, from theory to implementation. This workshop offers a glimpse into the capabilities of Kubernetes as a container orchestration engine. Please refer to Kubernetes Workshop: Intermediate and Kubernetes Workshop: Advanced for further in-depth Kubernetes training.</description>
     </item>
-    
     <item>
       <title>Kubernetes Workshop: Intermediate</title>
-      <link>https://melio.ai/training/kubernetes/intermediate/</link>
+      <link>https://melio.ai/training/kubernetes/intermediate/index.html</link>
       <pubDate>Thu, 04 Apr 2019 22:14:44 +0200</pubDate>
-      
-      <guid>https://melio.ai/training/kubernetes/intermediate/</guid>
-      <description>Introduction to CNCF projects with Kubernetes.
-This workshop is best suited for attendees who would like to know more about the power of Kubernetes beyond the default configurations. This workshop introduces several CNCF projects which are powerful additions to the Kubernetes cluster.
-This workshop aims to showcase the usage of a Kubernetes cluster in a realistic and practical scenario. Hence this workshop is presented as a series of problems in a form of a laboratory that attendees can complete at their own pace.</description>
+      <guid>https://melio.ai/training/kubernetes/intermediate/index.html</guid>
+      <description>Introduction to CNCF projects with Kubernetes.&#xA;This workshop is best suited for attendees who would like to know more about the power of Kubernetes beyond the default configurations. This workshop introduces several CNCF projects which are powerful additions to the Kubernetes cluster.&#xA;This workshop aims to showcase the usage of a Kubernetes cluster in a realistic and practical scenario. Hence this workshop is presented as a series of problems in a form of a laboratory that attendees can complete at their own pace.</description>
     </item>
-    
     <item>
       <title>Kubernetes Workshop: Advanced</title>
-      <link>https://melio.ai/training/kubernetes/advanced/</link>
+      <link>https://melio.ai/training/kubernetes/advanced/index.html</link>
       <pubDate>Thu, 04 Apr 2019 23:37:15 +0200</pubDate>
-      
-      <guid>https://melio.ai/training/kubernetes/advanced/</guid>
-      <description>This workshop is geared towards teams that have implemented Kubernetes within their organisations and would like to further their Kubernetes journey by learning about the best practices around configuring a production-ready, enterprise-level Kubernetes cluster.
-This workshop is only relevant to attendees that have Kubernetes currently deployed either in a development or production environment.
-Agenda This workshop is tailored to the attendees&amp;rsquo; current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
+      <guid>https://melio.ai/training/kubernetes/advanced/index.html</guid>
+      <description>This workshop is geared towards teams that have implemented Kubernetes within their organisations and would like to further their Kubernetes journey by learning about the best practices around configuring a production-ready, enterprise-level Kubernetes cluster.&#xA;Info This workshop is only relevant to attendees that have Kubernetes currently deployed either in a development or production environment.&#xA;Agenda This workshop is tailored to the attendees’ current Kubernetes set up and hence the agenda will be different depending on the needs of the team/organisation.</description>
     </item>
-    
   </channel>
 </rss>
