@@ -1,26 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Software Engineering :: Melio Consulting</title>
-    <link>https://melio.ai/training/software_engineering/index.html</link>
-    <description>A series of workshops aimed around best-practices of software engineering including version control and test-driven development.</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0200</lastBuildDate>
-    <atom:link href="https://melio.ai/training/software_engineering/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Version Control with Git and GitHub</title>
-      <link>https://melio.ai/training/software_engineering/git_and_github/index.html</link>
-      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
-      <guid>https://melio.ai/training/software_engineering/git_and_github/index.html</guid>
-      <description>Developing software in a team without some form of version control is chaotic, confusing, and leads to inevitable human mistakes.&#xA;This workshop is geared towards software engineering and data engineering teams who have the need to work collaboratively on code projects and wish to use industry best-practices around code versioning and source control.&#xA;Info Although GitHub is used by default in this workshop, this can be changed to any major provider as required.</description>
-    </item>
-    <item>
-      <title>Test-Driven Development</title>
-      <link>https://melio.ai/training/software_engineering/test_driven_development/index.html</link>
-      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
-      <guid>https://melio.ai/training/software_engineering/test_driven_development/index.html</guid>
-      <description>When developing software solutions, automated tests are the only thing standing between a robust, reliable solution, and a brittle and frustrating experience for end-users.&#xA;This workshop focusses on the theory and practice of automated software testing and Test-Driven Development (TDD).&#xA;Info The workshop will use Python to illustrate the process of test-driven development, but this may be changed as required.&#xA;Agenda An industry expert will show (through a live-coding session) the process and benefits of both testing and TDD. Both the theory and practical “from-the-trenches” knowledge is employed to deliver useful and immediately-employable content. The workshop is three hours in duration.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software Engineering :: Melio Consulting</title><link>https://melio.ai/training/software_engineering/index.html</link><description>A series of workshops aimed around best-practices of software engineering including version control and test-driven development.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://melio.ai/training/software_engineering/index.xml" rel="self" type="application/rss+xml"/><item><title>Version Control with Git and GitHub</title><link>https://melio.ai/training/software_engineering/git_and_github/index.html</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate><guid>https://melio.ai/training/software_engineering/git_and_github/index.html</guid><description>Developing software in a team without some form of version control is chaotic, confusing, and leads to inevitable human mistakes.
+This workshop is geared towards software engineering and data engineering teams who have the need to work collaboratively on code projects and wish to use industry best-practices around code versioning and source control.
+Info Although GitHub is used by default in this workshop, this can be changed to any major provider as required.</description></item><item><title>Test-Driven Development</title><link>https://melio.ai/training/software_engineering/test_driven_development/index.html</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate><guid>https://melio.ai/training/software_engineering/test_driven_development/index.html</guid><description>When developing software solutions, automated tests are the only thing standing between a robust, reliable solution, and a brittle and frustrating experience for end-users.
+This workshop focusses on the theory and practice of automated software testing and Test-Driven Development (TDD).
+Info The workshop will use Python to illustrate the process of test-driven development, but this may be changed as required.
+Agenda An industry expert will show (through a live-coding session) the process and benefits of both testing and TDD. Both the theory and practical “from-the-trenches” knowledge is employed to deliver useful and immediately-employable content. The workshop is three hours in duration.</description></item></channel></rss>
